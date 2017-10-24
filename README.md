@@ -7,7 +7,7 @@
 * 발표자가 발표 관련 자료를 1주일 전에 미리 배포하고, 수강자는 내용을 미리 파악하고 스터디 참석.
 * 모든 멤버가 발표를 한 번씩 하면, 한 시즌 끝. 이후 새로 멤버 모집.
 * 시즌 도중 탈퇴 시, 벌금 xx만원.
-* 발표 자료 및 코드는 Github을 통해서 공유 (추후 개인적으로 포프폴리오 활용 가능하도록).
+* 발표 자료 및 코드는 Github을 통해서 공유 (추후 개인적으로 포트폴리오 활용 가능하도록).
 
 ## Members
 * 이주홍
@@ -59,12 +59,12 @@
 * KL divergence
 
 ### Model
-* Alex net
-* VGG net
-* Res net
+* Alex Net
+* VGG Net
+* Res Net
 * Inception
 
-###Application: NLP
+### Application: NLP
 * Named Entity Recognition
 * Embedding
 * Neural Machine Translation
