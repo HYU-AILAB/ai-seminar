@@ -1,30 +1,31 @@
-# Deep Learning Seminar (Nov 8, 2017 - )
+# Deep Learning Seminar (Nov 9, 2017 - )
 [한양대학교 인공지능연구실](http://ai.hanyang.ac.kr/)에서 매주 진행하는 Deep Learning Seminar 발표 자료 및 구현 코드를 담고 있습니다.
 
 ## Seminar Rules
-* 매주 수요일 저녁 7시에 시작하여, 2시간 이내로 진행한다.
-* Speaker는 Assistant는 함께 모든 것을 준비하되, 발표 자료는 Speaker가 만들도록 한다.
-* 발표 관련 자료를 1주일 전에 미리 배포하고, 수강자는 내용을 미리 파악하고 세미나 참석한다.
-* 불가피한 일정이 있는 경우, Speaker는 발표를 다음 주로 미룰 수 있다.
-* 시즌 중 임의탈퇴 시, 10만원을 모임에 기부하고 나간다.
-* 발표 자료 및 코드는 Github을 통해서 공유하여 추후 개인 포트폴리오로 활용할 수 있도록 한다.
+* 매주 **목요일 저녁 7시30분**에 시작하여, **2시간 이내**로 진행한다.
+* Speaker는 Assistant는 모든 것을 함께 준비하되, 발표 자료는 Speaker가 만들도록 한다.
+* **Speaker**는 주제를 대략적으로 파악할 수 있는 **예습 자료(블로그, 코드, 논문, 자작 자료 등)를 1주일 전에 미리 배포한다.**
+* **수강자**는 예습 자료를 활용하여 내용을 **미리 공부하고 세미나 참석**한다.
+* 불가피한 일정이 있는 경우, Speaker는 발표를 다음 주로 미룰 수 있으며, 수강자는 불출석할 수 있다.
+* 시즌 중 임의탈퇴(해당 주차 이후 모임에 참석하지 않는 것) 시, **10만원**을 모임에 기부하고 나간다.
+* 발표 자료 및 코드는 Github을 통해 공유하여 추후 개인 포트폴리오로 활용할 수 있도록 한다.
 
 ## Schedule
-|#  | Topic                                                | Date          | Speaker | Assistant  |
-|:--|:-----------------------------------------------------|:-------------:|:-------:|:----------:|
-|1  | Multi Layer Perceptron<br>Feed Foward Neural Network | Nov 8, 2017   | 이주홍    | 가나다      |
-|2  | Convolutional Neural Network                         | Nov 15, 2017  | 조건희    | 가나다      |
-|3  | Reccurent Neural Network <br>Long Short-Term Memory  | Nov 22, 2017  | 권명하    | 가나다      |
-|4  | Word2Vec                                             | Nov 29, 2017  | 공성언    | 가나다      |
-|5  | Batch Normalization<br>Dropout                       | Dec 6 , 2017  | 조수필    | 가나다      |
-|6  | Restricted Boltzmann Machines<br>Deep Belief Network | Dec 20, 2017  | 김건     | 가나다      |
-|7  | VAE: Variational Auto Encoder                        | Dec 27, 2017  | 오주민    | 가나다      |
-|8  | GAN: Generative Adversarial Networks                 | Jan 3, 2018   | 한연지    | 가나다      |
-|9  | Q-Learning<br>Deep Q Network                         | Jan 10, 2018  | 임영수    | 가나다      |
-|10 | Gated Recurrent Units                                | Jan 17, 2018  | 장두수    | 가나다      |
-|11 | Attention Network                                    | Jan 23, 2018  | 김병조    | 가나다      |
+|#  | Topic                                                | Date (Thursday) | Speaker | Assistant |
+|:--|:-----------------------------------------------------|:---------------:|:-------:|:---------:|
+|1  | Multi Layer Perceptron<br>Feed Foward Neural Network | Nov 9, 2017     | 김병조    | 공성언     |
+|2  | Convolutional Neural Network                         | Nov 16, 2017    | 조수필    | 김병조     |
+|3  | Reccurent Neural Network <br>Long Short-Term Memory  | Nov 23, 2017    | 한연지    | 임영수     |
+|4  | Word2Vec                                             | Nov 30, 2017    | 오주민    | 장두수     |
+|5  | Batch Normalization<br>Dropout                       | Dec 7 , 2017    | 권명하    | 한연지     |
+|6  | Restricted Boltzmann Machines<br>Deep Belief Network | Dec 14, 2017    | 조건희    | 조수필     |
+|7  | VAE: Variational Auto Encoder                        | Dec 28, 2017    | 장두수    | 이주홍     |
+|8  | GAN: Generative Adversarial Networks                 | Jan 4, 2018     | 임영수    | 조건희     |
+|9  | Q-Learning<br>Deep Q Network                         | Jan 11, 2018    | 김건     | 권명하     |
+|10 | GRU: Gated Recurrent Units                           | Jan 18, 2018    | 이주홍    | 오주민     |
+|11 | Attention Network                                    | Jan 25, 2018    | 공성언    | 김건      |
 
-## 발표(강의) 구성
+## Essential Contents
 * **What**: 해당 개념이 무엇인가?
 * **How**: tensorflow기반 tutorial (Code Level 정리)
 * **Why**: 왜 해당 개념을 사용해야(배워야) 하는가? 무슨 의미가 있으며, 이전에 비해 어떤 점이 얼마나 좋은가?
