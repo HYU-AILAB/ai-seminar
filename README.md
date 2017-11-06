@@ -3,8 +3,8 @@
 
 ## Seminar Rules
 * 매주 **목요일 저녁 7시30분**에 시작하여, **2시간 이내**로 진행한다.
-* Speaker는 Assistant는 모든 것을 함께 준비하되, 발표 자료는 Speaker가 만들도록 한다.
-* 발표 자료는 ppt 또는 pdf 형식으로 하며, Tutorial Code는 가능하면 **tensorflow(python3)**를 기반으로 만들도록 한다.
+* Speaker는 Assistant는 모든 것(Tutorial Code, 예습자료 등)을 함께 준비하되, 발표 자료는 Speaker가 만들도록 한다.
+* 발표 자료는 ppt 또는 pdf 형식으로 하며, Tutorial Code는 가능하면 <b>tensorflow(python3)</b>를 기반으로 만들도록 한다.
 * **Speaker**는 주제를 대략적으로 파악할 수 있는 **예습 자료(블로그, Tutorial Code, 논문, 자작 자료 등)를 1주일 전에 미리 배포한다.**
 * **수강자**는 예습 자료를 활용하여 내용을 **미리 공부하고 세미나 참석**한다.
 * 불가피한 일정이 있는 경우, Speaker는 발표를 다음 주로 미룰 수 있으며, 수강자는 불출석할 수 있다.
