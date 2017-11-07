@@ -17,11 +17,9 @@ X = tf.placeholder(tf.float32)
 Y = tf.placeholder(tf.float32)
 
 W1 = tf.Variable(tf.random_uniform([2, 2], -1., 1.))
-#W1 = tf.get_variable("W1", shape=[2, 2], initializer=tf.contrib.layers.xavier_initializer())
 b1 = tf.Variable(tf.zeros([2]))
 
 W2 = tf.Variable(tf.random_uniform([2,1], -1., 1.))
-#W2 = tf.get_variable("W2", shape=[2, 1], initializer=tf.contrib.layers.xavier_initializer())
 b2 = tf.Variable(tf.zeros([1]))
 
 L1 = tf.sigmoid(tf.matmul(X, W1) + b1)
