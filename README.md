@@ -3,7 +3,7 @@
 
 ## Seminar Rules
 * 매주 **목요일 저녁 7시30분**에 시작하여, **2시간 이내**로 진행한다.
-* *Speaker*는 *Assistant*는 함께 해당 주제에 대해 완벽히 공부를 마치고, <b>Tutorial Code, 예습자료(블로그, Tutorial Code, 논문, 자작 자료 등) 등을 함께 준비</b>한다.
+* *Speaker*는 *Assistant*는 함께 해당 주제에 대해 완벽히 공부를 마치고, <b>Tutorial Code, 예습자료(블로그, Tutorial Code, 논문, 자작 자료 등; 주제 별 폴더에 README 형태로 업로드) 등을 함께 준비</b>한다.
 * 추가적으로 *Speaker*는 **발표 자료**도 주도적으로 만들도록 한다.
 * 발표 자료는 ppt 또는 pdf 형식으로 하며, Tutorial Code는 가능하면 <b>tensorflow(python3)</b>를 기반으로 만들도록 한다.
 * *Speaker*는 주제를 대략적으로 파악할 수 있는 **예습 자료를 1주일 전에 미리 배포한다.**
@@ -33,5 +33,11 @@
 * **What**: 해당 개념이 무엇인가?
 * **How**: tensorflow기반 tutorial (Code Level 정리)
 * **Why**: 왜 해당 개념을 사용해야(배워야) 하는가? 무슨 의미가 있으며, 이전에 비해 어떤 점이 얼마나 좋은가?
-* **Application**: 도대체 어디에 써먹는가?
+* **Application**: 도대체 어디에 써먹는가?ㅡㅁ가
 * **Reference**
+
+
+## Git Manual & Markdown Editor
+* [Git과 Github과 관련된 메뉴얼](https://github.com/roomylee/deep-learning-seminar/blob/master/git%20%26%20github.pdf)을 참고하여 본인이 준비한 자료를 정상적으로 Repo에 올릴 수 있도록 한다.
+* 예습자료(README)를 작성할 때는 MarkdownPad([download](http://markdownpad.com/), Typora([download](https://typora.io/#windows))등의 Editor를 사용하도록 한다.
+* Markdown 문법은 구글링... 다 공부하지 말고 필요한 것만 찾아서 쓰도록 한다.
