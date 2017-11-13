@@ -1,47 +1,31 @@
--	ºñ¼±Çü 
+##	ë¹„ì„ í˜• 
 
-Á÷¼± 1°³°¡ ¾Æ´Ñ ÇÔ¼öÀÌ¸é µÊ.
-
-ºñ¼±Çü È°¼ºÈ­ ÇÔ¼ö ¾øÀ» ½Ã, h = cx¸¦ 3¹ø ½×À¸¸é c^3 x = ax
-
-¹Ø¹Ù´ÚºÎÅÍ ±¸ÇöÇÏ´Â µö·¯´× p75
+* ì§ì„  1ê°œê°€ ì•„ë‹Œ í•¨ìˆ˜ì´ë©´ ë¨.
+* ë¹„ì„ í˜• í™œì„±í™” í•¨ìˆ˜ ì—†ì„ ì‹œ, h = cxë¥¼ 3ë²ˆ ìŒ“ìœ¼ë©´ c^3 x = ax
+* ë°‘ë°”ë‹¥ë¶€í„° êµ¬í˜„í•˜ëŠ” ë”¥ëŸ¬ë‹ p75
 
 
--	¹Ì´Ï ¹èÄ¡
+##	ë¯¸ë‹ˆ ë°°ì¹˜
 
-shuffle,  ºñº¹¿ø
-https://en.wikipedia.org/wiki/Stochastic_gradient_descent
-
-¼ø¼­´ë·Î, ºñº¹¿ø
-https://www.coursera.org/learn/machine-learning/lecture/9zJUs/mini-batch-gradient-descent
-3:06
+* shuffle,  ë¹„ë³µì›
+	* https://en.wikipedia.org/wiki/Stochastic_gradient_descent
+* ìˆœì„œëŒ€ë¡œ, ë¹„ë³µì›
+	* https://www.coursera.org/learn/machine-learning/lecture/9zJUs/mini-batch-gradient-descent _(3:06)_
 
 
+## bias
 
--	bias
-
-DeepLearningBook(https://github.com/janishar/mit-deep-learning-book-pdf) p212 - b°¡ º¤ÅÍ ÇüÅÂ(°¢ ´º·±¸¶´ÙÀÇ ¹ÙÀÌ¾î½º¸¦ °®°í ÀÖ´Â)¿©¾ß Wh¿Í ´õÇØÁü
-
-DeppLearningBook p173 - XOR Ã¹¹øÂ° ·¹ÀÌ¾î¿¡ ÇÊ¿äÇÑ bias´Â 2°³ : ´º·± ´ç ÇÏ³ª¾¿, bias´Â º¤ÅÍ
-
-https://www.quora.com/What-is-bias-in-artificial-neural-network
-ÀÇ ±×¸²À» º¸°í bias°¡ ·¹ÀÌ¾î´ç ÇÏ³ª ¶ó°í ¸»ÇÒ ¼öµµ ÀÖ°ÚÁö¸¸
-+1ÀÇ °ªÀÌ weight Ã³·³ °¢°¢ ´Ù¸¥ °ª°ú °öÇØÁ®¼­ °¢ ´º·±µé¿¡ µé¾î°¡±â ¶§¹®¿¡
-±× °¡ÁßÄ¡°¡ ´º·±ÀÇ °³¼ö¸¸Å­ ÀÖ¾î¾ß ÇÔ
-
-bias operates per virtual neuron
-https://datascience.stackexchange.com/questions/11853/question-about-bias-in-convolutional-networks
-
-CNN¿¡¼­´Â filter¸¶´Ù ÇÏ³ªÀÎ µí
-https://stackoverflow.com/questions/42451949/what-are-the-number-of-weight-and-bias-parameters-associated-with-this-cnn
+* DeepLearningBook(https://github.com/janishar/mit-deep-learning-book-pdf) p212 - bê°€ ë²¡í„° í˜•íƒœ(ê° ë‰´ëŸ°ë§ˆë‹¤ì˜ ë°”ì´ì–´ìŠ¤ë¥¼ ê°–ê³  ìˆëŠ”)ì—¬ì•¼ Whì™€ ë”í•´ì§ 
+* DeepLearningBook p173 - XOR ì²«ë²ˆì§¸ ë ˆì´ì–´ì— í•„ìš”í•œ biasëŠ” 2ê°œ : ë‰´ëŸ° ë‹¹ í•˜ë‚˜ì”©, biasëŠ” ë²¡í„°
+* ë§í¬ì˜ ê·¸ë¦¼ì„ ë³´ê³  biasê°€ ë ˆì´ì–´ë‹¹ í•˜ë‚˜ ë¼ê³  ë§í•  ìˆ˜ë„ ìˆê² ì§€ë§Œ +1ì˜ ê°’ì´ weight ì²˜ëŸ¼ ê°ê° ë‹¤ë¥¸ ê°’ê³¼ ê³±í•´ì ¸ì„œ ê° ë‰´ëŸ°ë“¤ì— ë“¤ì–´ê°€ê¸° ë•Œë¬¸ì— ê·¸ ê°€ì¤‘ì¹˜ê°€ ë‰´ëŸ°ì˜ ê°œìˆ˜ë§Œí¼ ìˆì–´ì•¼ í•¨
+	* https://www.quora.com/What-is-bias-in-artificial-neural-network
+* CNNì—ì„œëŠ” filterë§ˆë‹¤ í•˜ë‚˜ì¸ ë“¯. 
+	* https://stackoverflow.com/questions/42451949/what-are-the-number-of-weight-and-bias-parameters-associated-with-this-cnn
 
 
--	SGD
+##	SGD
 
-ÀÏºÎ training dataÀÇ gradient°¡ ÀüºÎ¸¦ ´ëº¯ÇÑ´Ù°í »ı°¢ÇÑ´Ù.
-https://en.wikipedia.org/wiki/Stochastic_gradient_descent
-
-
--	RMSprop, Adam µî¿¡ ´ëÇÑ ¼³¸í
-
-http://aikorea.org/cs231n/neural-networks-3/#sgd
+* ì¼ë¶€ training dataì˜ gradientê°€ ì „ë¶€ë¥¼ ëŒ€ë³€í•œë‹¤ê³  ìƒê°í•œë‹¤.
+	* https://en.wikipedia.org/wiki/Stochastic_gradient_descent
+* RMSprop, Adam ë“±ì— ëŒ€í•œ ì„¤ëª…
+	* http://aikorea.org/cs231n/neural-networks-3/#sgd
