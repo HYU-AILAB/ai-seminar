@@ -39,5 +39,5 @@
 
 ## Git Manual & Markdown Editor
 * [Git과 Github과 관련된 메뉴얼](https://github.com/roomylee/deep-learning-seminar/blob/master/git%20%26%20github.pdf)을 참고하여 본인이 준비한 자료를 정상적으로 Repo에 올릴 수 있도록 한다.
-* 예습자료(README)를 작성할 때는 MarkdownPad([download](http://markdownpad.com/)), Typora([download](https://typora.io/#windows))등의 Editor를 사용하도록 한다.
+* 예습자료(README)를 작성할 때는 **Visual Studio Cod**([download](https://code.visualstudio.com/Download)), **MarkRight**([download](https://github.com/dvcrn/markright/releases/download/0.1.11/MarkRight_Windows64.exe))등의 Editor를 사용하도록 한다.
 * Markdown 문법은 구글링... 다 공부하지 말고 필요한 것만 찾아서 쓰도록 한다.
