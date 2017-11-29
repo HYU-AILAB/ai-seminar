@@ -15,7 +15,8 @@ https://ratsgo.github.io/natural%20language%20processing/2017/03/09/rnnlstm/
 https://jay.tech.blog/2016/12/07/vanilla-rnn/
 > - LSTM 유닛과 게이트 작동방식 : 
 > https://deeplearning4j.org/kr/lstm
-> 
+> - Cross entropy in RNN
+> http://funmv2013.blogspot.kr/2017/01/cross-entropy.html
 
 11월 30일 목차
 -------------
