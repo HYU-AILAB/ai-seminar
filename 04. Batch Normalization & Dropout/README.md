@@ -18,8 +18,8 @@
 
 ## 실험에 쓰인 코드
 
-*ppt 20p
-    *모두의 딥러닝 lab-10-4-mnist_nn_deep.py, lab-10-5-mnist_nn_dropout.py
-*ppt 21, 22p
+* ppt 20p
+    * 모두의 딥러닝 lab-10-4-mnist_nn_deep.py, lab-10-5-mnist_nn_dropout.py
+* ppt 21, 22p
     * tutorial/bn-do-nn.py
 
