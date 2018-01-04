@@ -12,7 +12,7 @@
 - Word2Vec 관련 이론 정리 : https://shuuki4.wordpress.com/2016/01/27/word2vec-%EA%B4%80%EB%A0%A8-%EC%9D%B4%EB%A1%A0-%EC%A0%95%EB%A6%AC/
 - Word2Vec 학습 방식 : https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/30/word2vec/
 
-##TensorFlow Example
+## TensorFlow Tutorial
 
 - TensorFlowKorea Word2Vec Tutorial 번역 : https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/tutorials/word2vec/
 
