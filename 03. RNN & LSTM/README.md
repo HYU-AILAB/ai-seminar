@@ -1,4 +1,4 @@
-﻿﻿Welcome to RNN & LSTM!
+﻿Welcome to RNN & LSTM!
 ===================
 
 ----------
@@ -63,5 +63,7 @@ LSTM_loss
  ------------
 https://gist.github.com/ratsgo/6e9a094c7108dee8147ef0a13666de47#file-lstm_loss-py
 
+Q&A 
+ ------------
 
 
