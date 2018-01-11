@@ -64,7 +64,7 @@ $ source activate tensorflow
 **how to run**
 
 ```
-(tensorflow) $ python ~(path)/test-au-rbm.py
+(tensorflow) $ python ~(path)/main.py
 ```
 
  
