@@ -1,6 +1,6 @@
 # RBM
 
-##reference
+## reference
 
 **Papers**
 
@@ -14,7 +14,7 @@
 * https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+ML0120EN+2016/courseware/89227024130b43f684d95376901b65c8/aed4761a25e64d57af95da56a15ac609/
 * https://www.slideshare.net/blaswan/energy-based-models-and-boltzmann-machines
 
-##Python tutorial
+## Python tutorial
 
 **Environment**
 
@@ -66,3 +66,5 @@ $ source activate tensorflow
 ```
 (tensorflow) $ python ~(path)/test-au-rbm.py
 ```
+
+ 
