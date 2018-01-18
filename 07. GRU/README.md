@@ -8,7 +8,7 @@
 
 ### 샘플 코드
 - https://github.com/KnHuq/Dynamic-Tensorflow-Tutorial/blob/master/GRU/GRU.py
-- tensorflow 내부 코드 : https://github.com/tensorflow tensorflow/blob/r1.4/tensorflow/python/ops/rnn_cell_impl.py
+- tensorflow 내부 코드 : https://github.com/tensorflow/tensorflow/blob/r1.4/tensorflow/python/ops/rnn_cell_impl.py
 
 ### 논문
 - 논문 1 : https://bi.snu.ac.kr/Publications/Conferences/Domestic/KCC2016_HYJo.pdf
