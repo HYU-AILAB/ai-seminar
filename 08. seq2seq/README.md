@@ -1,33 +1,37 @@
 # seq2seq 예습자료
 
-## 발표 목차
-* TBD
+## 발표 내용
+* RNN, LSTM, GRU, seq2seq, encoder-decoder 등등 개념 및 용어 정리
+* RNN의 input, hidden, output에 대한 구조적 variants (many-to-one, one-to-many, many-to-many)와 적절한 활용 분야
+* seq2seq와 sth2sth (word2vec, sentence2vec, paragraph2vec, image2text, text2action, STT/TTS 등)와의 관련성
+* seq2seq의 응용분야 -> 번역, 챗봇 등
+* 간단한 tutorial과 결과물: 챗봇 예정
+* 궁금증 해결
+	* seq2seq의 output도 distributed한 vector일텐데 이를 다시 어떻게 word 같은 symbol로 바꿀까?
+	* 
 
+## Reference
+**중요한 건 굵은 글씨(Bold), 굵은 글씨로 표기된 것은 꼭 보세요!**
 
-## 발표 내용 구상
-* Encoder-Decoder가 무엇인가?
-* seq2seq는 무엇인가? Encoder-Decoder와의 차이는?
-* RNN을 어떻게 변형하면 만들 수 있는가?
-* 일반 RNN cell, LSTM, GRU 중 주로 뭘 쓰고 어떤 차이가 생기는가?(번역, 챗봇 등 문제에 대한 모델 적합성)
-* 다른 sth2sth 모델(word2vec, doc2vec 등)과 차이점이 있는가?
-* 모델을 사용하는 응용분야에 대한 정리 -> 번역, 챗봇, 기타 generative model 등.
-* activation function, loss function, optimizer 측면에서 주로 사용하는 것과 그 이유.
-* 관련 paper 정리
-
-
-## Encoder-Decoder
-* [paper] Learning Phrase Representations Using RNN Encoder-Decoder for SMT [[link]](https://arxiv.org/abs/1406.1078)
-* [blog] Learning Phrase Representations Using RNN Encoder-Decoder for SMT [[link]](https://jamiekang.github.io/2017/04/23/learning-phrase-representations-using-rnn-encoder-decoder/)
-* [ppt] Learning Phrase Representations Using RNN Encoder-Decoder for SMT [[link]](https://www.slideshare.net/keunbongkwak/learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation)
-* [pdf] Neural Encoder-Decoder Models [[link]](http://www.phontron.com/class/mtandseq2seq2017/mt-spring2017.chapter7.pdf)
-* [blog] How Does Attention Work in Encoder-Decoder RNN [[link]](https://machinelearningmastery.com/how-does-attention-work-in-encoder-decoder-recurrent-neural-networks/)
-* [blog] RECURRENT NEURAL NETWORKS – PART 3: ENCODER-DECODER [[link]](https://theneuralperspective.com/2016/11/20/recurrent-neural-networks-rnn-part-3-encoder-decoder/)
-
-
-## seq2seq tutorial
-* [paper] Sequence to Sequence Learning with Neural Networks [[link]](https://arxiv.org/abs/1409.3215)
-* [blog] Tensorflow Korea seq2seq Model Turotial [[link]](https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/tutorials/seq2seq/)
-* [blog] Chatbot based on seq2seq [[link]](http://yujuwon.tistory.com/entry/TENSORFLOW-seq2seq-%EA%B8%B0%EB%B0%98-%EC%B1%97%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0)
-* [github] Tensorflow Neural Machine Translation Tutorial [[link]](https://github.com/tensorflow/nmt)
-* [github] seq2seq learning with Keras [[link]](https://github.com/farizrahman4u/seq2seq)
-* [github] seq2seq model by google [[link]](https://github.com/google/seq2seq)
+* **Learning Phrase Representations Using RNN Encoder-Decoder for Statistical Machine Translation** (EMNLP 2014), K Cho et al. [[paper]](https://arxiv.org/abs/1406.1078)
+	* seq2seq 및 GRU를 최초로 제안한 조경현 박사님의 논문
+	* 위 논문을 한글로 가장 잘 설명한 블로그 post [[blog]](https://jamiekang.github.io/2017/04/23/learning-phrase-representations-using-rnn-encoder-decoder/) 
+	* PR12 모임에서한 논문 리뷰의 발표 영상 [[YouTube]](https://www.youtube.com/watch?v=_Dp8u97_rQ0&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS&index=4) [[slide]](https://www.slideshare.net/keunbongkwak/learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation)
+* **Sequence to Sequence Learning with Neural Networks** (NIPS 2014), I Sutskever et al. [[paper]](https://arxiv.org/pdf/1409.3215.pdf)
+	* 조경현 박사님의 논문만큼이나(혹은 그보다 더) 유명한 seq2seq의 대표 논문
+	* 순서 상 조경현 박사님 논문이 먼저이지만, 오히려 더 seq2seq 논문으로 유명
+	* 조경현 박사님 논문은 Encoder-Decoder(seq2seq), GRU 등을 기계번역 분야에 맞춰 포괄적으로 제안한 논문이라 볼 수 있는 반면 이 논문은 seq2seq에 좀 더 집중한 느낌
+* Tensorflow Korea seq2seq Model Offical Turotial [[gitbook]](https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/tutorials/seq2seq/)
+* **seq2seq 기반 기계번역의 개념과 매커니즘을 가장 쉽게 설명한 블로그 post** [[blog]](https://medium.com/@jongdae.lim/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-machine-learning-%EC%9D%80-%EC%A6%90%EA%B2%81%EB%8B%A4-part-5-83b7a44b797a)
+* 영어 데이터 기반 응용 프로젝트
+	* seq2seq를 이용한 챗봇 개발에 대한 개념 정리 및 Tutorial [[blog_Ch.1]](http://suriyadeepan.github.io/2016-06-28-easy-seq2seq/) [[blog_Ch.2]](http://suriyadeepan.github.io/2016-12-31-practical-seq2seq/) [[github]](https://github.com/suriyadeepan/easy_seq2seq)
+	* 한글로 쓰여진 seq2seq 기반 챗봇 만들기 Tutorial [[blog]](http://yujuwon.tistory.com/entry/TENSORFLOW-seq2seq-%EA%B8%B0%EB%B0%98-%EC%B1%97%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+	* Tensorflow Neural Machine Translation Official Tutorial [[github]](https://github.com/tensorflow/nmt)
+	* English to Spanish 기계번역 Tutorial [[blog]](https://theneuralperspective.com/2016/11/20/recurrent-neural-networks-rnn-part-3-encoder-decoder/) [[github]](https://github.com/GokuMohandas/the-neural-perspective/tree/master/recurrent-neural-networks/seq-seq/encoder-decoder)
+* 한글 데이터 기반 응용 프로젝트
+	* seq2seq 모델로 뉴스 제목 추출하기 [[blog]](https://ratsgo.github.io/natural%20language%20processing/2017/03/12/s2s/)
+	* golbin's seq2seq 챗봇 tutorial [[github]](https://github.com/golbin/TensorFlow-Tutorials/tree/master/10%20-%20RNN/ChatBot)
+* Library & Framework
+	* Google에서 배포하는 general-purpose encoder-decoder framework for Tensorflow [[Doc]](https://google.github.io/seq2seq/) [[github]](https://github.com/google/seq2seq)
+	* seq2seq Keras Library [[github]](https://github.com/farizrahman4u/seq2seq)
+	
