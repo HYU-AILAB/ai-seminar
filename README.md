@@ -21,11 +21,11 @@
 |5  | [Word2Vec](https://github.com/roomylee/deep-learning-seminar/tree/master/05.%20Word2Vec)                                             												                      | Jan 4, 2018     | 오주민    | 장두수     |
 |6  | [Restricted Boltzmann Machines<br>Deep Belief Network](https://github.com/roomylee/deep-learning-seminar/tree/master/06.%20RBM%20%26%20DBN)   | Jan 11, 2018    | 조건희    | 조수필     |
 |7  | [GRU: Gated Recurrent Units](https://github.com/roomylee/deep-learning-seminar/tree/master/07.%20GRU)      				                      | Jan 18, 2018    | 서상우    | 오주민     |
-|8  | [Seq2Seq: Encoder-Decoder](https://github.com/roomylee/deep-learning-seminar/tree/master/08.%20seq2seq)                               | Mar 7, 2018     | 이주홍    | 김건      |
-|9  | [GAN: Generative Adversarial Networks](https://github.com/roomylee/deep-learning-seminar/tree/master/10.%20GAN)                            | Mar 15, 2018    | 임영수    | 조건희     |
-|10 | [Q-Learning<br>Deep Q Network](https://github.com/roomylee/deep-learning-seminar/tree/master/11.%20Q-Learning%20%26%20DQN)                | Mar 22, 2018    | 김건     | 권명하     |
-|11 | [Attention Network](https://github.com/roomylee/deep-learning-seminar/tree/master/12.%20Attention%20Network)                   | Mar 29, 2018    | 김지성, 엄희송, 유재창   | 이주홍  |
-|12 | [VAE: Variational Auto Encoder](https://github.com/roomylee/deep-learning-seminar/tree/master/09.%20VAE)                                   | Apr 6, 2018     | 장두수    | 한연지     |
+|8  | [Seq2Seq: Encoder-Decoder](https://github.com/roomylee/deep-learning-seminar/tree/master/08.%20Seq2Seq)                               | Mar 7, 2018     | 이주홍    | 김건      |
+|9  | [GAN: Generative Adversarial Networks](https://github.com/roomylee/deep-learning-seminar/tree/master/09.%20GAN)                            | Mar 15, 2018    | 임영수    | 조건희     |
+|10 | [Q-Learning<br>Deep Q Network](https://github.com/roomylee/deep-learning-seminar/tree/master/10.%20Q-Learning%20%26%20DQN)                | Mar 22, 2018    | 김건     | 권명하     |
+|11 | [Attention Network](https://github.com/roomylee/deep-learning-seminar/tree/master/11.%20Attention%20Network)                   | Mar 29, 2018    | 김지성, 엄희송, 유재창   | 이주홍  |
+|12 | [VAE: Variational Auto Encoder](https://github.com/roomylee/deep-learning-seminar/tree/master/12.%20VAE)                                   | Apr 6, 2018     | 장두수    | 한연지     |
 
 
 
