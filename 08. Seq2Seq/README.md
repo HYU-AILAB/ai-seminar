@@ -8,7 +8,6 @@
 * 간단한 tutorial과 결과물: 챗봇 예정
 * 궁금증 해결
 	* seq2seq의 output도 distributed한 vector일텐데 이를 다시 어떻게 word 같은 symbol로 바꿀까?
-	* 
 
 ## Reference
 **중요한 건 굵은 글씨(Bold), 굵은 글씨로 표기된 것은 꼭 보세요!**
@@ -30,7 +29,7 @@
 	* English to Spanish 기계번역 Tutorial [[blog]](https://theneuralperspective.com/2016/11/20/recurrent-neural-networks-rnn-part-3-encoder-decoder/) [[github]](https://github.com/GokuMohandas/the-neural-perspective/tree/master/recurrent-neural-networks/seq-seq/encoder-decoder)
 * 한글 데이터 기반 응용 프로젝트
 	* seq2seq 모델로 뉴스 제목 추출하기 [[blog]](https://ratsgo.github.io/natural%20language%20processing/2017/03/12/s2s/)
-	* golbin's seq2seq 챗봇 tutorial [[github]](https://github.com/golbin/TensorFlow-Tutorials/tree/master/10%20-%20RNN/ChatBot)
+	* **golbin's seq2seq 챗봇 tutorial** [[github]](https://github.com/golbin/TensorFlow-Tutorials/tree/master/10%20-%20RNN/ChatBot)
 * Library & Framework
 	* Google에서 배포하는 general-purpose encoder-decoder framework for Tensorflow [[Doc]](https://google.github.io/seq2seq/) [[github]](https://github.com/google/seq2seq)
 	* seq2seq Keras Library [[github]](https://github.com/farizrahman4u/seq2seq)
