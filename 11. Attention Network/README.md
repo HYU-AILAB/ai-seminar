@@ -10,7 +10,7 @@
 ## Reference
 
 * Neural Machine Translation by Jointly Learning to Align and Translate(ICLR 2015), Bahdanau et al. [[paper]](https://arxiv.org/abs/1409.0473)
-	* NLP에서의 attention mechanism을 제안
+	* NMT에서 attention mechanism을 제안
 * Effective Approaches to Attention-based Neural Machine Translation(EMNLP 2015), Luong et al. [[paper]](https://arxiv.org/abs/1508.04025)
 	* Local attention의 개념으로 계산속도 향상
 * Attention mechanism에 대해 한글로 개념을 간단하게 잘 설명한 블로그(한글) [[블로그]](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/10/06/attention/)
