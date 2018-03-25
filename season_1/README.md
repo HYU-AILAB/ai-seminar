@@ -1,4 +1,4 @@
-# Deep Learning Seminar (Nov 9, 2017 - )
+# Deep Learning Seminar Season #1 (Nov 9, 2017 - Apr 6, 2018)
 [한양대학교 인공지능연구실](http://ai.hanyang.ac.kr/)에서 매주 진행하는 Deep Learning Seminar 발표 자료 및 구현 코드를 담고 있습니다.
 
 ## Seminar Rules
