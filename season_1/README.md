@@ -1,4 +1,4 @@
-# Deep Learning Seminar Season #1 (Nov 9, 2017 - Apr 6, 2018)
+# Deep Learning Seminar Season #1 (Nov 9, 2017 - Apr 12, 2018)
 [한양대학교 인공지능연구실](http://ai.hanyang.ac.kr/)에서 매주 진행하는 Deep Learning Seminar 발표 자료 및 구현 코드를 담고 있습니다.
 
 ## Seminar Rules
@@ -14,18 +14,18 @@
 ## Schedule
 |#  | Topic                                  | Date (Thursday) | Speaker | Assistant |
 |:--|:---------------------------------------|:---------------:|:-------:|:---------:|
-|1  | [Multi Layer Perceptron<br>Feed Foward Neural Network](https://github.com/roomylee/deep-learning-seminar/tree/master/01.%20MLP%20%26%20FFNN)  | Nov 9, 2017     | 김병조    | 공성언     |
-|2  | [Convolutional Neural Network](https://github.com/roomylee/deep-learning-seminar/tree/master/02.%20CNN)                                   | Nov 16, 2017    | 조수필    | 김병조     |
-|3  | [Reccurent Neural Network <br>Long Short-Term Memory](https://github.com/roomylee/deep-learning-seminar/tree/master/03.%20RNN%20%26%20LSTM)  | Dec 7, 2017     | 한연지    | 임영수     |
-|4  | [Batch Normalization<br>Dropout](https://github.com/roomylee/deep-learning-seminar/tree/master/04.%20Batch%20Normalization%20%26%20Dropout) | Dec 28, 2017    | 권명하    | 서상우     |
-|5  | [Word2Vec](https://github.com/roomylee/deep-learning-seminar/tree/master/05.%20Word2Vec)                                             												                      | Jan 4, 2018     | 오주민    | 장두수     |
-|6  | [Restricted Boltzmann Machines<br>Deep Belief Network](https://github.com/roomylee/deep-learning-seminar/tree/master/06.%20RBM%20%26%20DBN)   | Jan 11, 2018    | 조건희    | 조수필     |
-|7  | [GRU: Gated Recurrent Units](https://github.com/roomylee/deep-learning-seminar/tree/master/07.%20GRU)      				                      | Jan 18, 2018    | 서상우    | 오주민     |
-|8  | [Seq2Seq: Encoder-Decoder](https://github.com/roomylee/deep-learning-seminar/tree/master/08.%20Seq2Seq)                               | Mar 7, 2018     | 이주홍    | 김건      |
-|9  | [GAN: Generative Adversarial Networks](https://github.com/roomylee/deep-learning-seminar/tree/master/09.%20GAN)                            | Mar 15, 2018    | 임영수    | 조건희     |
-|10 | [Q-Learning<br>Deep Q Network](https://github.com/roomylee/deep-learning-seminar/tree/master/10.%20Q-Learning%20%26%20DQN)                | Mar 22, 2018    | 김건     | 권명하     |
-|11 | [Attention Network](https://github.com/roomylee/deep-learning-seminar/tree/master/11.%20Attention%20Network)                   | Mar 29, 2018    | 김지성, 엄희송, 유재창   | 이주홍  |
-|12 | [VAE: Variational Auto Encoder](https://github.com/roomylee/deep-learning-seminar/tree/master/12.%20VAE)                                   | Apr 6, 2018     | 장두수    | 한연지     |
+|1  | [Multi Layer Perceptron<br>Feed Foward Neural Network](https://github.com/roomylee/deep-learning-seminar/tree/master/season_1/01.%20MLP%20%26%20FFNN)  | Nov 9, 2017     | 김병조    | 공성언     |
+|2  | [Convolutional Neural Network](https://github.com/roomylee/deep-learning-seminar/tree/master/season_1/02.%20CNN)                                   | Nov 16, 2017    | 조수필    | 김병조     |
+|3  | [Reccurent Neural Network <br>Long Short-Term Memory](https://github.com/roomylee/deep-learning-seminar/tree/master/season_1/03.%20RNN%20%26%20LSTM)  | Dec 7, 2017     | 한연지    | 임영수     |
+|4  | [Batch Normalization<br>Dropout](https://github.com/roomylee/deep-learning-seminar/tree/master/season_1/04.%20Batch%20Normalization%20%26%20Dropout) | Dec 28, 2017    | 권명하    | 서상우     |
+|5  | [Word2Vec](https://github.com/roomylee/deep-learning-seminar/tree/master/season_1/05.%20Word2Vec)                                             												                      | Jan 4, 2018     | 오주민    | 장두수     |
+|6  | [Restricted Boltzmann Machines<br>Deep Belief Network](https://github.com/roomylee/deep-learning-seminar/tree/master/season_1/06.%20RBM%20%26%20DBN)   | Jan 11, 2018    | 조건희    | 조수필     |
+|7  | [GRU: Gated Recurrent Units](https://github.com/roomylee/deep-learning-seminar/tree/master/season_1/07.%20GRU)      				                      | Jan 18, 2018    | 서상우    | 오주민     |
+|8  | [Seq2Seq: Encoder-Decoder](https://github.com/roomylee/deep-learning-seminar/tree/master/season_1/08.%20Seq2Seq)                               | Mar 7, 2018     | 이주홍    | 김건      |
+|9  | [GAN: Generative Adversarial Networks](https://github.com/roomylee/deep-learning-seminar/tree/master/season_1/09.%20GAN)                            | Mar 15, 2018    | 임영수    | 조건희     |
+|10 | [Q-Learning<br>Deep Q Network](https://github.com/roomylee/deep-learning-seminar/tree/master/season_1/10.%20Q-Learning%20%26%20DQN)                | Mar 22, 2018    | 김건     | 권명하     |
+|11 | [Attention Network](https://github.com/roomylee/deep-learning-seminar/tree/master/season_1/11.%20Attention%20Network)                   | Mar 29, 2018    | 김지성, 엄희송, 유재창   | 이주홍  |
+|12 | [VAE: Variational Auto Encoder](https://github.com/roomylee/deep-learning-seminar/tree/master/season_1/12.%20VAE)                                   | Apr 12, 2018     | 장두수    | 한연지     |
 
 
 
