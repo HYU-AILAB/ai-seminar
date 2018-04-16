@@ -1,19 +1,22 @@
-# Title of paper [[pdf]](여기에 논문 링크 달아주세요.)
+# Dynamic Routing Between Capsules [[pdf]](https://arxiv.org/pdf/1710.09829.pdf)
 
 * Author
-	* first author (소속 학교, 기관)
-	* second author (소속 학교, 기관)
-	* third author (소속 학교, 기관)
-	* so on...
-	* Ex) Joohong Lee (Hanyang University)
+	* Sara Sabour (Brain, Google)
+	* Nicholas Frosst (Brain, Google)
+	* Geoffrey E Hinton (Emeritus Prof. Comp Sci, U.Toronto & Engineering Fellow, Google)
+
 * Title of Conference (Journal)
-	* conference name (year of publication)
-	* Ex) NIPS (2018)
+	* NIPS (2017)
 
 
 ## Article & Blog post
-* 링크 내용 간단 설명 + 링크
+* CNN - [[링크]](http://pythonkim.tistory.com/52)
+* Capsule Networks와 CNN구조의 문제점을 간략히 설명해줌(한글) - [[링크]](https://jayhey.github.io/deep%20learning/2017/11/28/CapsNet_1/)
+* Hinton's Capsule Networks 논문을 잘 정리한 포스팅(영문) - [[링크]](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
+* Hinton's Capsule Networks 논문을 잘 정리한 포스팅(한글), (+Capsule과 Traditional Neuron를 비교) - [[링크]](https://medium.com/@bootpay.co.kr/%EC%BA%A1%EC%8A%90-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-1-e32f4ed5e13)
+* 논문 리뷰 영상(영문) - [[링크]](https://www.youtube.com/watch?v=pPN8d0E3900)
+* 논문 리뷰 영상(한글) - [[링크]](https://www.youtube.com/watch?v=_YT_8CT2w_Q&t=1109s&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS&index=57)
 
 
 ## Implementation
-* 논문 내용을 구현한 코드(github) or tutorial + 링크
+* Implementation of CapsNet for MNIST와 관련된 코드[[링크]](https://github.com/soskek/dynamic_routing_between_capsules)
