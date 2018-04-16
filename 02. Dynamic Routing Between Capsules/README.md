@@ -10,7 +10,7 @@
 
 
 ## Article & Blog post
-* CNN 설명 - [[링크]](file:///C:/Users/JC_PC/Downloads/DLFS_CH7.pdf)
+* CNN 설명 - [[pdf]](http://www.modulabs.co.kr/?module=file&act=procFileDownload&file_srl=16043&sid=9b960f583ea62babe145032e6f70695e&module_srl=10291)
 * Capsule Networks와 CNN구조의 문제점을 간략히 설명해줌(한글) - [[링크]](https://jayhey.github.io/deep%20learning/2017/11/28/CapsNet_1/)
 * 카카오 AI 리포트에 설명 된 Capsule Networks, 그림으로 간단하게 잘 알려줌(한글) - [[링크]](https://brunch.co.kr/@kakao-it/158)
 * Hinton's Capsule Networks 논문을 잘 정리한 포스팅(영문) - [[링크]](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
