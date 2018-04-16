@@ -18,7 +18,7 @@
 * 논문 리뷰 영상(영문) - [[링크]](https://www.youtube.com/watch?v=pPN8d0E3900)
 * 논문 리뷰 영상(한글) - [[링크]](https://www.youtube.com/watch?v=_YT_8CT2w_Q&t=1109s&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS&index=57)
 * TensorFlow를 이용한 CapsNets 구현 방법을 설명 - [[링크]](https://www.youtube.com/watch?v=2Kawrd5szHE&feature=youtu.be)
-* 
+
 
 ## Implementation
 * Implementation of CapsNet for MNIST를 구현한 코드[[링크]](https://github.com/soskek/dynamic_routing_between_capsules)
