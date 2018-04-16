@@ -1,11 +1,10 @@
 # Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks [[pdf]](https://arxiv.org/pdf/1506.01497.pdf)
 
 * Author
-	* Shaoqing Ren
-	* Kaiming He
-	* Ross Girshick
-	* Jian Sun
-	* Ex) Joohong Lee (Hanyang University)
+	* Shaoqing Ren - Microsoft Research
+	* Kaiming He - Microsoft Research
+	* Ross Girshick - Facebook AI Research
+	* Jian Sun - Microsoft Research
 * Title of Conference (Journal)
 	* NIPS (2015)
 
