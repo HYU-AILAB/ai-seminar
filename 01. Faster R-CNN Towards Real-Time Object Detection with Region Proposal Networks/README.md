@@ -8,6 +8,8 @@
 * Title of Conference (Journal)
 	* NIPS (2015)
 
+## Presentation Pdf
+* Blog에 포스팅 해놓았습니다. [[링크]](http://byeongjo.kim/view/7)
 
 ## Article & Blog post
 * Fast R-CNN, Microsoft Research, Ross Girshick, Fast R-CNN, arXiv:1504.08083. [[pdf]](https://arxiv.org/pdf/1504.08083.pdf)
