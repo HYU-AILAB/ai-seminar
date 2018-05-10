@@ -1,19 +1,18 @@
-# Title of paper [[pdf]](여기에 논문 링크 달아주세요.)
+# Deep Reinforcement Learninf for Dialouge Geneation [[pdf]](https://arxiv.org/abs/1606.01541)
+
 
 * Author
-	* first author (소속 학교, 기관)
-	* second author (소속 학교, 기관)
-	* third author (소속 학교, 기관)
-	* so on...
-	* Ex) Joohong Lee (Hanyang University)
-* Title of Conference (Journal)
-	* conference name (year of publication)
-	* Ex) NIPS (2018)
+  * Jiwei Li (Stanford University)
+  * Will Monroe (Stanford University)
+  * Alan Ritter (Ohio State University)
+  * Michel Galley (Microsoft Research)
+  * Jianfeng Gao (Microsoft Research)
+  * Dan Jurafsky (Stanford University)
 
 
-## Article & Blog post
-* 링크 내용 간단 설명 + 링크
+## 참고 문헌
+* Baseline paper : Mutual Information [[link]](https://arxiv.org/abs/1510.03055)
+* Blog : Maximun Likelihood Estimation and its Gradient [[link]](http://sanghyukchun.github.io/58/)
+* Baseline paper : Curriculum Learning [[link]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.149.4701)
 
 
-## Implementation
-* 논문 내용을 구현한 코드(github) or tutorial + 링크
