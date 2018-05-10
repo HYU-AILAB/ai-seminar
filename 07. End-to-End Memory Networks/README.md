@@ -1,19 +1,21 @@
-# Title of paper [[pdf]](여기에 논문 링크 달아주세요.)
+# End-To-End Memory Networks [[pdf]](https://arxiv.org/pdf/1503.08895.pdf)
+
 
 * Author
-	* first author (소속 학교, 기관)
-	* second author (소속 학교, 기관)
-	* third author (소속 학교, 기관)
-	* so on...
-	* Ex) Joohong Lee (Hanyang University)
+	* Sainbayar Sukhbaatar (New York University)
+	* Arthur Szlam (Facebook AI Research)
+	* Jason Weston (Facebook AI Research)
+	* Rob Fergus (Facebook AI Research)
 * Title of Conference (Journal)
-	* conference name (year of publication)
-	* Ex) NIPS (2018)
+	* NIPS 2015
 
 
 ## Article & Blog post
-* 링크 내용 간단 설명 + 링크
+* 직접 작성한 논문 한글 요약 및 리뷰 [[link]](https://github.com/kwonmha/paper-reviews/blob/master/End-to-End%20Memory%20Networks.md)
+* 슬라이드 형태의 요약본 p30~75 [[link]](https://www.slideshare.net/carpedm20/ss-63116251)
 
 
 ## Implementation
-* 논문 내용을 구현한 코드(github) or tutorial + 링크
+* QA Task Tensorflow Implementation [[github]](https://github.com/domluna/memn2n)
+* Language Modeling Task Tensorflow Implementation [[github]](https://github.com/carpedm20/MemN2N-tensorflow)
+
