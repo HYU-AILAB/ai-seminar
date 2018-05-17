@@ -1,18 +1,17 @@
-# Title of paper [[pdf]](여기에 논문 링크 달아주세요.)
+# Title of paper [[pdf]](https://www.aclweb.org/anthology/N13-1090)
 
 * Author
-	* first author (소속 학교, 기관)
-	* second author (소속 학교, 기관)
-	* third author (소속 학교, 기관)
-	* so on...
-	* Ex) Joohong Lee (Hanyang University)
+	* Tomas Mikolov (Microsoft Research)
+	* Wen-tau Yih (Microsoft Research)
+	* Geoffrey Zweig (Microsoft Research)
+
 * Title of Conference (Journal)
-	* conference name (year of publication)
-	* Ex) NIPS (2018)
+	* NAACL (2013)
 
 
 ## Article & Blog post
-* 링크 내용 간단 설명 + 링크
+* 시그모이드와 하이퍼볼릭탄젠트 function의 차이 
+- https://www.quora.com/What-are-the-benefits-of-a-tanh-activation-function-over-a-standard-sigmoid-activation-function-for-artificial-neural-nets-and-vice-versa
 
 
 ## Implementation
