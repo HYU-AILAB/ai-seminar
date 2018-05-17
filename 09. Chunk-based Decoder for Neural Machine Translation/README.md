@@ -1,14 +1,10 @@
-# Title of paper [[pdf]](여기에 논문 링크 달아주세요.)
+# Title of paper [[pdf]](http://www.aclweb.org/anthology/P17-1174)
 
 * Author
-	* first author (소속 학교, 기관)
-	* second author (소속 학교, 기관)
-	* third author (소속 학교, 기관)
-	* so on...
-	* Ex) Joohong Lee (Hanyang University)
+	* Shonosuke Ishiwatar(The University of Tokyo)
+	* Jingtao Yao(Shanghai Jia Tong University)
 * Title of Conference (Journal)
-	* conference name (year of publication)
-	* Ex) NIPS (2018)
+	* Ex) ACL (2017)
 
 
 ## Article & Blog post
