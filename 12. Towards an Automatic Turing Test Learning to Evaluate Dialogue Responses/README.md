@@ -18,4 +18,4 @@
 
 
 ## Implementation
-* 내부 업로드
+* https://github.com/Yoctol/ADEM (python 2.7)
