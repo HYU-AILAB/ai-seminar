@@ -1,4 +1,4 @@
-# Deep Learning Seminar Season #2 (Apr 19, 2018 - )
+# Deep Learning Seminar Season #2 (Apr 19, 2018 - Jun 7, 2018)
 [한양대학교 인공지능연구실](http://ai.hanyang.ac.kr/)에서 매주 진행하는 Deep Learning Seminar 발표 자료 및 구현 코드를 담고 있습니다. Season #2 는 AI 분야 paper review를 주제로 진행합니다.
 
 |#  | Topic                                  | Period |
@@ -29,9 +29,9 @@
 |8  | Deep Reinforcement Learning for Dialogue Generation | May 10, 2018 | 오주민 |
 |9  | Chunk-based Decoder for Neural Machine Translation | May 17, 2018 | 임영수 |
 |10 | Linguistic Regularities in Continuous Space Word Representations | May 17, 2018 | 한연지 |
-|11 | Deep Photo Style Transfer | May 24, 2018 | 김지성 |
-|12 | Towards an Automatic Turing Test: Learning to Evaluate Dialogue Responses | May 24, 2018 | 조수필 |
-|13 | Asynchronous Methods for Deep Reinforcement Learning | May 31, 2018 | 김건 |
+|11 | FaceNet: A Unified Embedding for Face Recognition and Clustering | May 31, 2018 | 김지성 |
+|12 | Towards an Automatic Turing Test: Learning to Evaluate Dialogue Responses | May 31, 2018 | 조수필 |
+|13 | Asynchronous Methods for Deep Reinforcement Learning | Jun 7, 2018 | 김건 |
 
 
 ## Essential Contents
