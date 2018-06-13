@@ -1,4 +1,4 @@
-# Title of paper [[pdf]](https://www.aclweb.org/anthology/N13-1090)
+# Linguistic Regularities in Continuours Space Word Representations [[pdf]](https://www.aclweb.org/anthology/N13-1090)
 
 * Author
 	* Tomas Mikolov (Microsoft Research)
