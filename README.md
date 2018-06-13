@@ -1,11 +1,11 @@
-# Deep Learning Seminar Season #3 (Jun 27, 2018 - )
+# Deep Learning Seminar Season #3 (Jul 4, 2018 - )
 [한양대학교 인공지능연구실](http://ai.hanyang.ac.kr/)에서 매주 진행하는 Deep Learning Seminar 발표 자료 및 구현 코드를 담고 있습니다. Season #3 는 AI 분야 paper review를 주제로 진행합니다.
 
 |#  | Topic                                  | Period |
 |:--|:---------------------------------------|:---------------:|
 |1  | [Season 1 : Deep Learning 기초 모델 세미나](https://github.com/roomylee/deep-learning-seminar/tree/master/season_1)  | Nov 9, 2017 - Apr 12, 2018|
 |2  | [Season 2 : Deep Learning Paper Review](https://github.com/roomylee/deep-learning-seminar/tree/master/season_2) | Apr 19, 2018 - May 31, 2018 |
-|3  | [Season 3 : Deep Learning 주제 리딩 세미나](https://github.com/roomylee/deep-learning-seminar) | Jun 27, 2018 - |
+|3  | [Season 3 : Deep Learning 주제 리딩 세미나](https://github.com/roomylee/deep-learning-seminar) | Jul 4, 2018 - |
 
 
 ## Seminar Rules
@@ -21,13 +21,13 @@
 ## Schedule
 |#  | Topic                                  | Date (Wednesday) | Speaker |
 |:--|:---------------------------------------|:----------------:|:-------:|
-|1  | Recommendation System | Jun 27, 2018 | 권명하 & 한연지 |
-|2  | Image to Image Translation | Jul 4, 2018 | 조건희 & 김지성 |
-|3  | Neural Language Model | Jul 11, 2018 | 임영수 & 송지수 |
-|4  | Variational Auto Encoder | Jul 18, 2018 | 서상우 & 유재창 |
-|5  | Self Attention | Jul 25, 2018 | 이주홍 & 엄희송 |
-|6  | Ontology | Aug 1 3, 2018 | 김건 & 조수필 |
-|7  | Skim Text with Neural Network | Aug 8, 2018 | 오주민 & 김병조 |
+|1  | Recommendation System | Jul 4, 2018 | 권명하 & 한연지 |
+|2  | Image to Image Translation | Jul 11, 2018 | 조건희 & 김지성 |
+|3  | Neural Language Model | Jul 18, 2018 | 임영수 & 송지수 |
+|4  | Variational Auto Encoder | Jul 25, 2018 | 서상우 & 유재창 |
+|5  | Self Attention | Aug 1, 2018 | 이주홍 & 엄희송 |
+|6  | Ontology | Aug 8, 2018 | 김건 & 조수필 |
+|7  | Skim Text with Neural Network | Aug 22, 2018 | 오주민 & 김병조 |
 
 
 ## Essential Contents
