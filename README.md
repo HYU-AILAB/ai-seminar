@@ -12,28 +12,22 @@
 * 매주 **목요일 저녁 6시30분**에 시작하여, **2시간 이내**로 진행한다.
 * 주제를 리딩하고 싶은 사람은 파티장이 되어 주제 및 내용을 공지하여 함께할 파티원을 모집한다. [[주제 모집 공고]](https://docs.google.com/spreadsheets/d/1RfwGdbD9ABgFyn6z_kVqm4TTO8Jeey80JQ7bYMuzdWk/edit?usp=sharing)
 * 파티장과 파티원이 **2인 1조**를 이루어, 1시간 분량의 발표(논문, 개념 등) 2개를 준비하여 발표한다.
-* 논문 선정 및 읽는 방법을 정리해두었으니 참고한다. [[읽어보러가기!]](https://github.com/roomylee/deep-learning-seminar/blob/master/about_papers.md)
+* 주제/논문 선정 및 읽는 방법을 정리해두었으니 참고한다. [[읽어보러가기!]](https://github.com/roomylee/deep-learning-seminar/blob/master/about_papers.md)
 * README에 논문에 대한 정보와 관련 자료(article, blog) 및 구현 코드(github) 등을 정리하여 올리도록 한다.
 * 발표 자료는 pdf 형식으로 만들어서 올리도록 한다.
 * 모든 세미나 자료는 Github을 통해 공유하여 추후 개인 포트폴리오로 활용할 수 있도록 한다.
 
 
 ## Schedule
-<!--|#  | Topic (paper)                          | Date (Thursday) | Speaker |
-|:--|:---------------------------------------|:---------------:|:-------:|
-|1  | Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks | Apr 19, 2018 | 김병조 |
-|2  | Dynamic Routing Between Capsules | Apr 19, 2018 | 유재창 |
-|3  | Adam: A method for stochastic optimization | Apr 26, 2018 | 서상우 |
-|4  | Learning to discover cross-domain relations with generative adversarial networks | Apr 26, 2018 | 조건희
-|5  | A Simple Neural Network Module for Relational Reasoning | May 3, 2018 | 엄희송 |
-|6  | Recurrent Convolutional Neural Networks for Text Classification | May 3, 2018 | 이주홍 |
-|7  | End-to-End Memory Networks | May 10, 2018 | 권명하 |
-|8  | Deep Reinforcement Learning for Dialogue Generation | May 10, 2018 | 오주민 |
-|9  | Chunk-based Decoder for Neural Machine Translation | May 17, 2018 | 임영수 |
-|10 | Linguistic Regularities in Continuous Space Word Representations | May 17, 2018 | 한연지 |
-|11 | FaceNet: A Unified Embedding for Face Recognition and Clustering | May 31, 2018 | 김지성 |
-|12 | Towards an Automatic Turing Test: Learning to Evaluate Dialogue Responses | May 31, 2018 | 조수필 |
-|13 | Asynchronous Methods for Deep Reinforcement Learning | Jun 7, 2018 | 김건 |-->
+|#  | Topic                                  | Date (Wednesday) | Speaker |
+|:--|:---------------------------------------|:----------------:|:-------:|
+|1  | Recommendation System | Jun 27, 2018 | 권명하 & 한연지 |
+|2  | Image to Image Translation | Jul 4, 2018 | 조건희 & 김지성 |
+|3  | Neural Language Model | Jul 11, 2018 | 임영수 & 송지수 |
+|4  | Variational Auto Encoder | Jul 18, 2018 | 서상우 & 유재창 |
+|5  | Self Attention | Jul 25, 2018 | 이주홍 & 엄희송 |
+|6  | Ontology | Aug 1 3, 2018 | 김건 & 조수필 |
+|7  | Skim Text with Neural Network | Aug 8, 2018 | 오주민 & 김병조 |
 
 
 ## Essential Contents
