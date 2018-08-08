@@ -9,7 +9,7 @@
 
 
 ## Seminar Rules
-* 매주 **목요일 저녁 6시30분**에 시작하여, **2시간 이내**로 진행한다.
+* 매주 **수요일 저녁 6시30분**에 시작하여, **2시간 이내**로 진행한다.
 * 주제를 리딩하고 싶은 사람은 파티장이 되어 주제 및 내용을 공지하여 함께할 파티원을 모집한다. [[주제 모집 공고]](https://docs.google.com/spreadsheets/d/1RfwGdbD9ABgFyn6z_kVqm4TTO8Jeey80JQ7bYMuzdWk/edit?usp=sharing)
 * 파티장과 파티원이 **2인 1조**를 이루어, 1시간 분량의 발표(논문, 개념 등) 2개를 준비하여 발표한다.
 * 주제/논문 선정 및 읽는 방법을 정리해두었으니 참고한다. [[읽어보러가기!]](https://github.com/roomylee/deep-learning-seminar/blob/master/about_papers.md)
@@ -26,7 +26,7 @@
 |3  | Neural Language Model | Jul 18, 2018 | 임영수 & 송지수 |
 |4  | Variational Auto Encoder | Jul 25, 2018 | 서상우 & 유재창 |
 |5  | Self Attention | Aug 1, 2018 | 이주홍 & 엄희송 |
-|6  | Ontology | Aug 8, 2018 | 김건 & 조수필 |
+|6  | Ontology | Aug 22, 2018 | 김건 & 조수필 |
 |7  | Skim Text with Neural Network | Aug 22, 2018 | 오주민 & 김병조 |
 
 
