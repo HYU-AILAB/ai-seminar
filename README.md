@@ -5,7 +5,7 @@
 |:--|:---------------------------------------|:---------------:|
 |1  | [Season 1 : Deep Learning 기초 모델 세미나](https://github.com/roomylee/deep-learning-seminar/tree/master/season_1)  | Nov 9, 2017 - Apr 12, 2018|
 |2  | [Season 2 : Deep Learning Paper Review](https://github.com/roomylee/deep-learning-seminar/tree/master/season_2) | Apr 19, 2018 - May 31, 2018 |
-|3  | [Season 3 : Deep Learning 주제 리딩 세미나](https://github.com/roomylee/deep-learning-seminar) | Jul 4, 2018 - |
+|3  | [Season 3 : Deep Learning 주제 리딩 세미나](https://github.com/roomylee/deep-learning-seminar) | Jul 4, 2018 - Aug 29, 2018 |
 
 
 ## Seminar Rules
@@ -27,7 +27,7 @@
 |4  | Variational Auto Encoder | Jul 25, 2018 | 서상우 & 유재창 |
 |5  | Self Attention | Aug 1, 2018 | 이주홍 & 엄희송 |
 |6  | Ontology | Aug 22, 2018 | 김건 & 조수필 |
-|7  | Skim Text with Neural Network | Aug 22, 2018 | 오주민 & 김병조 |
+|7  | Skim Text with Neural Network | Aug 29, 2018 | 오주민 & 김병조 |
 
 
 ## Essential Contents
