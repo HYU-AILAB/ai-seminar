@@ -17,4 +17,10 @@
 * Gumbel-Softmax 쉽게 이해할 수 있는 유재준 님의 동영상 강의 [[link]](https://www.youtube.com/watch?v=ty3SciyoIyk)
   ​
 
+## Learning to Skim Text[[pdf](https://arxiv.org/pdf/1704.06877.pdf)]
 
+
+* Author
+  * Adams Wei Yu (Carnegie Mellon University)
+  * Hongrae Lee (Google)
+  * Quoc V. Le (Google)
