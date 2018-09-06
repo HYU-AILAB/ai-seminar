@@ -2,7 +2,7 @@
 
 ## paper
 
-- [Adversarial Training Methods for Semi-Supervised Text Classification] (https://arxiv.org/abs/1605.07725)
+- [Adversarial Training Methods for Semi-Supervised Text Classification](https://arxiv.org/abs/1605.07725)
 
 - 주요 키워드 : Adversarial Training, Class Imbalance, Text Classification, (~Data Augmentation)
 
