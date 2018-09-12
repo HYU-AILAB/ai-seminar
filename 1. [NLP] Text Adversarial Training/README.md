@@ -1,4 +1,4 @@
-# Text Adversarial Training
+﻿# Text Adversarial Training
 
 ## paper
 
@@ -10,4 +10,12 @@
 
 ### References
 
-- 추후 업데이트
+- [Class Imbalance 설명](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
+
+- [SMOTE 간단 설명](http://goodtogreate.tistory.com/entry/Handling-Class-Imbalance-with-R-and-Caret-An-introduction)
+
+- [ROSE 설명](https://stats.stackexchange.com/questions/166458/rose-and-smote-oversampling-methods)
+
+- [boosting vs adaboost 간단 비교](https://www.quora.com/What-is-the-difference-between-gradient-boosting-and-adaboost)
+
+- [Kullback & Leibler divergence 간단 설명](https://brunch.co.kr/@chris-song/69)
