@@ -32,7 +32,7 @@
 |#  | Topic | Date | Group |
 |:--|:--|:--:|:--:|
 | 1 | Text Adversarial Training | Sep 12, 2018 | 자연어처리 |
-| 2 | 미정 |  | 데이터분석 |
+| 2 | Neural Arithmetic Logic Units | Sep 20, 2018 | 데이터분석 |
 | 3 | 미정 |  | 로봇 |
 | 4 | 미정 |  | 비전 |
 | 5 | 미정 |  | 자연어처리 |
