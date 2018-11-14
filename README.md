@@ -1,5 +1,5 @@
-# Deep Learning Seminar Season #4 (Sep 3, 2018 - Oct 9, 2018)
-[한양대학교 인공지능연구실](http://ai.hanyang.ac.kr/)에서 매주 진행하는 Deep Learning Seminar 발표 자료 및 구현 코드를 담고 있습니다. Season #4 는 연구실 업무에 맞추어 나눈 그룹이 자율적으로 주제를 정해 진행합니다.
+# AI Seminar Season #4 (Sep 12, 2018 - Nov 29, 2018)
+[한양대학교 인공지능연구실](http://ai.hanyang.ac.kr/)에서 매주 진행하는 AI Seminar 발표 자료 및 구현 코드를 담고 있습니다. Season #4 는 연구실 업무에 맞추어 나눈 그룹이 자율적으로 주제를 정해 진행합니다.
 
 |#  | Topic                                  | Period |
 |:--|:---------------------------------------|:---------------:|
@@ -39,7 +39,7 @@
 | 6 | 미정 |  | 데이터분석 |
 | 7 | 미정 |  | 로봇 |
 | 8 | Multiple Object Tracking with Candidate and Re-id | Nov 14, 2018  | 비전 |
-| 9 | 미정 |  | 자연어처리 |
+| 9 | BERT: transformer-based language model for pre-training | Nov 22, 2018 | 자연어처리 |
 | 10 | 미정 |  | 데이터분석 |
 
 ## Git Manual & Markdown Editor
