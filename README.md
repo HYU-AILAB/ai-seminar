@@ -35,7 +35,7 @@
 | 2 | Neural Arithmetic Logic Units | Sep 20, 2018 | 데이터분석 |
 | 3 | 미정 |  | 로봇 |
 | 4 | 미정 |  | 비전 |
-| 5 | 미정 |  | 자연어처리 |
+| 5 | ELMo (Embedding from Language Model) | Oct 17, 2018 | 자연어처리 |
 | 6 | 미정 |  | 데이터분석 |
 | 7 | 미정 |  | 로봇 |
 | 8 | Multiple Object Tracking with Candidate and Re-id | Nov 14, 2018  | 비전 |
