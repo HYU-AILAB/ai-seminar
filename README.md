@@ -38,7 +38,7 @@
 | 5 | 미정 |  | 자연어처리 |
 | 6 | 미정 |  | 데이터분석 |
 | 7 | 미정 |  | 로봇 |
-| 8 | Multiple Object Tracking with Candidate and Re-id |  | 비전 |
+| 8 | Multiple Object Tracking with Candidate and Re-id | Nov 14, 2018  | 비전 |
 | 9 | 미정 |  | 자연어처리 |
 | 10 | 미정 |  | 데이터분석 |
 
