@@ -33,11 +33,11 @@
 |:--|:--|:--:|:--:|
 | 1 | Text Adversarial Training | Sep 12, 2018 | 자연어처리 |
 | 2 | Neural Arithmetic Logic Units | Sep 20, 2018 | 데이터분석 |
-| 3 | 미정 |  | 로봇 |
+| 3 | 미 진행 |  | 로봇 |
 | 4 | PointCNN | Oct 10, 2018 | 비전 |
 | 5 | ELMo (Embedding from Language Model) | Oct 17, 2018 | 자연어처리 |
-| 6 | 미정 |  | 데이터분석 |
-| 7 | 미정 |  | 로봇 |
+| 6 | 미 진행 |  | 데이터분석 |
+| 7 | Automated KnowledgeBase Completion Using Collaborative Filtering and Deep Reinforcement Learning | Nov 8, 2018 | 로봇 |
 | 8 | Multiple Object Tracking with Candidate and Re-id | Nov 14, 2018  | 비전 |
 | 9 | BERT: transformer-based language model for pre-training | Nov 22, 2018 | 자연어처리 |
 | 10 | 미정 |  | 데이터분석 |
