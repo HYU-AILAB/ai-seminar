@@ -30,7 +30,7 @@
 | 08 | 김병조 | Focal loss for dense object detection | ICCV | 2017 | Tsung-Yi Lin, et al. | [PDF](https://arxiv.org/pdf/1708.02002.pdf) |
 | 09 | 유재창 | StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks | ICCV | 2017 | Han Zhang, et al. | [PDF](https://arxiv.org/pdf/1710.10916.pdf) |
 | 10 | 서상우 | Linguistically-Informed Self-Attention for Semantic Role Labeling | EMNLP | 2018 | Emma Strubell, Patrick Verga, Daniel Andor, David Weiss, Andrew McCallum | [PDF](https://arxiv.org/pdf/1804.08199.pdf) |
-| 11 | 장두수 |  |  |  |  |  |
+| 11 | 장두수 | Latent Embeddings for Zero-shot Classification | CVPR | 2016 | Yongqin Xian, Zeynep Akata, Gaurav Sharma, Quynh Nguyen, Matthias Hein, Bernt Schiele | [PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Xian_Latent_Embeddings_for_CVPR_2016_paper.pdf) |
 
 ## Schedule
 * 총 7주간 진행
