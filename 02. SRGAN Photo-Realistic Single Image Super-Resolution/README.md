@@ -1,8 +1,8 @@
-﻿# R-FCN Object Detection via Region-based Fully Convolutional Networks
+﻿# SRGAN Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
 
 ## Paper
 
-- [R-FCN Object Detection via Region-based Fully Convolutional Networks](https://arxiv.org/pdf/1605.06409.pdf)
+- [SRGAN Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802)
 
 - 키워드 : 
 
