@@ -21,7 +21,7 @@
 | # | Presenter | Paper | Conference | Year | Author | PDF |
 |:--:|:--:|:--|:--:|:--:|:--:|:--:|
 | 01 | 김건 | Learning to Teach | ICLR | 2018 | Yang Fan, Fei Tian, et al. | [PDF](https://arxiv.org/pdf/1805.03643.pdf) |
-| 02 | 김지성 | R-FCN: Object Detection via Region-based Fully Convolutional Networks | Microsoft Research | 2016 | Jifeng Dai, Yi Li, Kaiming He, Jian Sun | [PDF](https://arxiv.org/pdf/1605.06409.pdf) |
+| 02 | 김지성 | SRGAN Photo-Realistic Single Image Super-Resolution | Microsoft Research | 2016 | Jifeng Dai, Yi Li, Kaiming He, Jian Sun | [PDF](https://arxiv.org/pdf/1605.06409.pdf) |
 | 03 | 조충현 | Wasserstein Auto-Encoders | ICLR | 2018 | Ilya Tolstikhin, Olivier Bousquet, Sylvain Gelly, Bernhard Schoelkopf | [PDF](https://arxiv.org/pdf/1711.01558.pdf) |
 | 04 | 조건희 | StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation | CVPR2018 | 2017 | Yunjey Choi, et al. | [PDF](https://arxiv.org/pdf/1711.09020.pdf) |
 | 05 | 엄희송 | Progressive Growing of GANs for Improved Quality, Stability, and Variation | ICLR | 2018 | Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen | [PDF](https://arxiv.org/pdf/1710.10196.pdf) |
@@ -41,9 +41,9 @@
 | 01 | 김병조 | 유재창 | Jan 8, 2019 |
 | 02 | 엄희송 | 서상우 | Jan 15, 2019 |
 | 03 | 조건희 | 송지수 | Jan 22, 2019 |
-| 04 | 김건 | 한연지 | Jan 29, 2019 |
+| 04 | 한연지 |  | Jan 29, 2019 |
 | 05 | 조충현 | 장두수 | Feb 12, 2019 |
-| 06 | 김지성 |  | Feb 19, 2019 |
+| 06 | 김지성 | 김건 | Feb 19, 2019 |
 
 ## Git Manual & Markdown Editor
 * [Git & Github 메뉴얼](https://github.com/roomylee/deep-learning-seminar/blob/master/git%20%26%20github.pdf)을 참고하여 본인이 준비한 자료를 정상적으로 Repo에 올릴 수 있도록 한다.
