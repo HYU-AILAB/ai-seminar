@@ -2,7 +2,7 @@
 [한양대학교 인공지능연구실](http://ai.hanyang.ac.kr/)에서 매주 진행하는 AI Seminar 발표 자료 및 구현 코드를 담고 있습니다. Season #6 은 Deep Learning에서 가장 중요한 기초 모델을 주제로 진행합니다. 
 
 기존 연구원에게는 복습의 기회!
- 
+
 신입생에게는 기초를 다지는 시간!
 
 |#  | Topic                                  | Period |
@@ -26,7 +26,7 @@
 ## Topics
 | #  | Presenter | Subject | Contents|
 |:--:|:---------:|:-------:|:-------:|
-| 01 |   장두수   | Multilayer Perseptron | |
+| 01 |   장두수   | Multilayer Perceptron | perceptron / backpropagation / activation function |
 | 02 |   엄희송   | 학습 관련 기술 [1]| Loss funtion / Optimizer |
 | 03 |   김지성   | Auto-Encoder | |
 | 04 |   서상우   | RNN & LSTM | RNN / LSTM / GRU|
@@ -45,7 +45,7 @@
 * 총 4주간 진행
 * 최소한 발표 1주 전까지는 발표주제 update!
 
-| #  | Date         | Presenter 1 | Presenter 2 | Presenter 3 | Presenter 4 | 
+| #  | Date         | Presenter 1 | Presenter 2 | Presenter 3 | Presenter 4 |
 |:--:|:------------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | 01 | Mar 19, 2019 | 장두수       | 엄희송        | 김지성        |             |
 | 02 | Mar 26, 2019 | 서상우       | 조건희        | 송지수        |             |
