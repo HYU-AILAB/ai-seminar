@@ -34,11 +34,10 @@
 | 06 |   송지수   | Seq2Seq | |
 | 07 |   김병조   | CNN 원리 | |
 | 08 |   유재창   | 학습 관련 기술 [2] | batch normalization / Dropout |
-| 09 |   한연지   | CNN 모델 | VGG / ResNet / Inception |
-| 10 |   김유리   | Attention Network | |
-| 11 |   박소영   | CNN 응용 | |
-| 12 |   정지은   | Generative Adversarial Network | |
-| 13 |   조충현   | Variational Auto-Encoder | |
+|  09  |  김유리   |       Attention Network        |                                                    |
+|  10  |  박소영   |            CNN 모델            | AlexNet / GoogLeNet / VGGNet / ResNet |
+|  11  |  정지은   | Generative Adversarial Network |                                                    |
+|  12  |  조충현   |    Variational Auto-Encoder    | |
 
 
 ## Schedule
@@ -49,7 +48,7 @@
 |:--:|:------------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | 01 | Mar 19, 2019 | 장두수       | 엄희송        | 김지성        |             |
 | 02 | Mar 26, 2019 | 서상우       | 조건희        | 송지수        |             |
-| 03 | Apr 02, 2019 | 김병조       | 유재창        | 한연지        |             |
+| 03 | Apr 02, 2019 | 김병조       | 유재창        |         |             |
 | 04 | Apr 09, 2019 | 김유리       | 박소영        | 정지은        | 조충현        |
 
 ## Git Manual & Markdown Editor
