@@ -9,7 +9,7 @@
 
 ## References
 
-- [Deep Learning Seminar Season 1 발표](https://github.com/roomylee/deep-learning-seminar/tree/master/season_1/05.Word2Vec)
+- [Deep Learning Seminar Season 1 발표](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_1/05.%20Word2Vec)
 - [논문 내용 요약 (blog)](http://nohhj.blogspot.com/2015/08/word-embedding.html) 
 - [Word2Vec 개요 (blog)](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/11/embedding/)
 - [학습 방법 (blog)](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/30/word2vec/)
