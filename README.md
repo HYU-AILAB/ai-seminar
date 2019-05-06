@@ -12,44 +12,45 @@
 |3  | [Season 3 : Deep Learning 주제 리딩 세미나](https://github.com/roomylee/deep-learning-seminar/tree/master/season_3) | Jul 04, 2018 - Aug 29, 2018 |
 |4  | [Season 4 : 업무별 그룹 주최 세미나](https://github.com/roomylee/deep-learning-seminar/tree/master/season_4) |  Sep 12, 2018 - Dec 05, 2018 |
 |5  | [Season 5 : Deep Learning 자율 주제 세미나](https://github.com/roomylee/deep-learning-seminar/tree/master/season_5) |  Jan 08, 2019 - Feb 19, 2019 |
-|6  | [Season 6 : Deep Learning 기초 모델 복습 세미나](https://github.com/roomylee/deep-learning-seminar) |  Mar 19, 2019 - Apr 09, 2019 |
+|6  | [Season 6 : Deep Learning 기초 모델 복습 세미나](https://github.com/roomylee/deep-learning-seminar/tree/master/season_6) |  Mar 19, 2019 - Apr 09, 2019 |
+|7  | [Season 7 : Deep Learning 자율 주제 세미나](https://github.com/roomylee/deep-learning-seminar) |  May 07, 2019 - Jun 10, 2019 |
 
 ## Seminar Rules
-* 기존 발표 내용을 복습하는 시즌 
 * 매주 **월요일 6시**에 시작하여, 발표 당 시간은 **30분 이내**로 진행한다.
-* 연구실 모든 인원 필수 참여
 * 발표자가 아닌 경우에 한하여 연차 사용 가능 - **시즌당 1회, 한주에 최대 3명**
 * README에 논문에 대한 정보와 관련 자료(article, blog) 및 구현 코드(github) 등을 정리하여 올리도록 한다.
 * 발표 자료는 **PDF 형식**으로 만들어서 올리도록 한다.
 * 모든 세미나 자료는 github을 통해 공유하여 추후 개인 포트폴리오로 활용할 수 있도록 한다.
 
 ## Topics
-| #  | Presenter | Subject | Contents|
-|:--:|:---------:|:-------:|:-------:|
-| 01 |   장두수   | Multilayer Perceptron | perceptron / backpropagation / activation function |
-| 02 |   엄희송   | 학습 관련 기술 [1]| Loss funtion / Optimizer |
-| 03 |   김지성   | Auto-Encoder | |
-| 04 |   서상우   | RNN & LSTM | RNN / LSTM / GRU|
-| 05 |   조건희   | Word2Vec | |
-| 06 |   송지수   | Seq2Seq | |
-| 07 |   김병조   | CNN 원리 | |
-| 08 |   유재창   | 학습 관련 기술 [2] | batch normalization / Dropout |
-|  09  |  김유리   |       Attention Network        |                                                    |
-|  10  |  박소영   |            CNN 모델            | AlexNet / GoogLeNet / VGGNet / ResNet |
-|  11  |  정지은   | Generative Adversarial Network |                                                    |
-|  12  |  조충현   |    Variational Auto-Encoder    | |
+| #  | Presenter | Subject |
+|:--:|:---------:|:-------:|
+| 01 |   김병조   | Bidirectional Learning for Domain Adaptation of Semantic Segmentation |
+| 02 |   서상우   | Context-Aware Self-Attention Networks |
+| 03 |   조건희   | Zero-shot learning by convex combination of semantic embeddings |
+| 04 |   유재창   | Harmonic Unpaired Image-to-image Translation |
+| 05 |   조충현   | Attention is All you Need |
+| 06 |   박소영   | Exploring Randomly Wired Neural Networks for Image Recognition |
+| 07 |   정지은   | Image-to-Image Translation with Conditional Adversarial Networks |
+| 08 |   장두수   | Learning a Deep Embedding Model for Zero-Shot Learning |
+|  09  |  김유리   | Language Models are Unsupervised Multitask Learners |
+|  10  |  송지수   | Disconnected Recurrent Neural Networks for Text Categorization |
+|  11  |  엄희송   | Semantic Image Synthesis with Spatially-Adaptive Normalization |
+|  12  |  김지성   | Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking |
 
 
 ## Schedule
-* 총 4주간 진행
+* 총 6주간 진행
 * 최소한 발표 1주 전까지는 발표주제 update!
 
-| #  | Date         | Presenter 1 | Presenter 2 | Presenter 3 | Presenter 4 |
-|:--:|:------------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| 01 | Mar 19, 2019 | 장두수       | 엄희송        | 김지성        |             |
-| 02 | Mar 26, 2019 | 서상우       | 조건희        | 송지수        |             |
-| 03 | Apr 02, 2019 | 김병조       | 유재창        |         |             |
-| 04 | Apr 09, 2019 | 김유리       | 박소영        | 정지은        | 조충현        |
+| #  | Date         | Presenter 1 | Presenter 2 |
+|:--:|:------------:|:-----------:|:-----------:|
+| 01 | May 07, 2019 | 김병조       | 서상우        |
+| 02 | May 13, 2019 | 조건희       | 유재창        |
+| 03 | May 20, 2019 | 조충현       | 박소영        |
+| 04 | May 27, 2019 | 정지은       | 장두수        |
+| 05 | Jun 03, 2019 | 김유리       | 송지수        |
+| 06 | Jun 10, 2019 | 엄희송       | 김지성        |
 
 ## Git Manual & Markdown Editor
 * [Git & Github 메뉴얼](https://github.com/roomylee/deep-learning-seminar/blob/master/git%20%26%20github.pdf)을 참고하여 본인이 준비한 자료를 정상적으로 Repo에 올릴 수 있도록 한다.
