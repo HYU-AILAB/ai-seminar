@@ -34,7 +34,7 @@
 | 07 |   정지은   | Image-to-Image Translation with Conditional Adversarial Networks |
 | 08 |   장두수   | Learning a Deep Embedding Model for Zero-Shot Learning |
 |  09  |  김유리   | Language Models are Unsupervised Multitask Learners |
-|  10  |  송지수   | Disconnected Recurrent Neural Networks for Text Categorization |
+|  10  |  송지수   | Enhanced Language Representation with Informative Entities |
 |  11  |  엄희송   | Semantic Image Synthesis with Spatially-Adaptive Normalization |
 |  12  |  김지성   | Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking |
 
