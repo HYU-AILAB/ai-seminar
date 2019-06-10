@@ -1,6 +1,0 @@
-# [Title]
-
-## Abstract
-
-
-## References

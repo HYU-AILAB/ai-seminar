@@ -36,7 +36,7 @@
 |  09  |  김유리   | Language Models are Unsupervised Multitask Learners |
 |  10  |  송지수   | Enhanced Language Representation with Informative Entities |
 |  11  |  엄희송   | Semantic Image Synthesis with Spatially-Adaptive Normalization |
-|  12  |  김지성   | Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking |
+|  12  |  김지성   | WaveNet - A Generative Model for Raw Audio |
 
 
 ## Schedule
