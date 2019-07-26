@@ -27,7 +27,7 @@
 | 02 |   서상우   | Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context |
 | 03 |   김유리   | Improving Languate Understanding by Generative Pre-Training |
 | 04 |   박소영   | Photo wake-up: 3D character animation from a single photo |
-| 05 |   엄희송   | MorphNet: Fast & Simple Resource-Constrained Learning of Deep Network Structure |
+| 05 |   엄희송   | UNIT: Unsupervised Image-to-Image Translation Networks |
 | 06 |   조충현   | SQuAD: 100,000+ Questions for Machine Comprehension of Text |
 | 07 |   김병조   | StoryGAN:A Sequential Conditional Gan for Story Visualization |
 | 08 |   송지수   | XLNet: Generalized Autoregressive Pretraining for Language Understanding |
