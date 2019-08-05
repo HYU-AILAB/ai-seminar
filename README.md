@@ -10,7 +10,7 @@
 |4  | [Season 4 : 업무별 그룹 주최 세미나](https://github.com/roomylee/deep-learning-seminar/tree/master/season_4) |  Sep 12, 2018 - Dec 05, 2018 |
 |5  | [Season 5 : Deep Learning 자율 주제 세미나](https://github.com/roomylee/deep-learning-seminar/tree/master/season_5) |  Jan 08, 2019 - Feb 19, 2019 |
 |6  | [Season 6 : Deep Learning 기초 모델 복습 세미나](https://github.com/roomylee/deep-learning-seminar/tree/master/season_6) |  Mar 19, 2019 - Apr 09, 2019 |
-|7  | [Season 7 : Deep Learning 자율 주제 세미나](https://github.com/roomylee/deep-learning-seminar) |  May 07, 2019 - Jun 10, 2019 |
+|7  | [Season 7 : Deep Learning 자율 주제 세미나](https://github.com/roomylee/deep-learning-seminar/season_7) |  May 07, 2019 - Jun 10, 2019 |
 |8  | [Season 8 : Deep Learning 자율 주제 세미나](https://github.com/roomylee/deep-learning-seminar) |  Jul 15, 2019 - Aug 19, 2019 |
 
 ## Seminar Rules
