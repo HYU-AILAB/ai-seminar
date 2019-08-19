@@ -33,7 +33,7 @@
 | 08 |   송지수   | XLNet: Generalized Autoregressive Pretraining for Language Understanding |
 |  09  |  장두수   | Context-Aware Zero-Shot Recognition |
 |  10  |  김지성   | FlowNet: Learning Optical Flow with Convolutional Networks |
-|  11  |  정지은   | Zero-Shot Action Recognition via Two-Stream Graph Convolutional Networks and Knowledge Graphs |
+|  11  |  정지은   | Connecting Gaze Scene and Attention: Generalized Attention Estimation via Joint Modeling of Gaze and Scene Saliency |
 |  12  |  이봉석, 김영수   | Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks |
 
 
