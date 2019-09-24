@@ -24,17 +24,17 @@
 ## Topics
 | #  | Presenter | Subject |
 |:--:|:---------:|:-------:|
-| 01 |   김지성   | 미정 |
-| 02 |   김병조   | 미정 |
-| 03 |   장두수   | 미정 |
-| 04 |   조건희   | 미정 |
-| 05 |   정지은   | 미정 |
-| 06 |   김유리   | 미정 |
-| 07 |   박소영   | 미정 |
-| 08 |   이봉석   | 미정 |
-|  09  |  송지수   | 미정 |
-|  10  |  서상우   | 미정 |
-|  11  |  조충현   | 미정 |
+| 01 |   김지성   | Simple Online and Realtime Tracking with a Deep Association Metric |
+| 02 |   김병조   | AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks |
+| 03 |   장두수   | Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs |
+| 04 |   조건희   | Zero shot learning via class conditioned deep generative models |
+| 05 |   정지은   | Believe It or Not, We Know What You Are Looking at! |
+| 06 |   김유리   | Unified Language Model Pre-training for Natural Language Understanding and Generation |
+| 07 |   박소영   | Adaptive Neural Trees |
+| 08 |   이봉석   | Knowledge Graph and Text Jointly Embedding |
+|  09  |  송지수   | Dynamic Evaluation of Transformer Language Models |
+|  10  |  서상우   | Distributionally Robust Language Modeling |
+|  11  |  조충현   | Matching the Blanks: Distributional Similarity for Relation Learning |
 
 
 ## Schedule
