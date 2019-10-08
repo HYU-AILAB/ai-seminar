@@ -1,4 +1,4 @@
-﻿# Wasserstein Auto-Encoders
+﻿#  Believe It or Not, We Know What You Are Looking at!
 
 ## Paper
 
