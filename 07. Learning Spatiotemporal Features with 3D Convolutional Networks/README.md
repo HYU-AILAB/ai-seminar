@@ -4,9 +4,9 @@
 
 - link : https://arxiv.org/abs/1412.0767
 
-- 키워드 : 2d conv, 3d conv, video task, ConvNet, C3D
+- 키워드 : 2d conv, 3d conv, video task, ConvNet, **C3D**
 
-- 한줄 소개 : 3d ConvNet을 사용해 spatiotemporal feature를 학습하는 C3D 소개
+- 한줄 소개 : 3d ConvNet을 사용해 spatiotemporal feature를 학습하는 C3D를 소개한다.
 
 ### References
 
