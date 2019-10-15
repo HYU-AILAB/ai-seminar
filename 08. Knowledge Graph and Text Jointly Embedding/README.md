@@ -11,5 +11,5 @@
 ### References
 
 - TransE : http://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf
-- Word2Vec : https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/30/word2vec/
+- Word2Vec : (https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/30/word2vec/)
 
