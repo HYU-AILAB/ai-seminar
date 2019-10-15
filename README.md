@@ -30,7 +30,7 @@
 | 04 |   조건희   | Zero shot learning via class conditioned deep generative models |
 | 05 |   정지은   | Believe It or Not, We Know What You Are Looking at! |
 | 06 |   김유리   | Unified Language Model Pre-training for Natural Language Understanding and Generation |
-| 07 |   박소영   | Adaptive Neural Trees |
+| 07 |   박소영   | Learning Spatiotemporal Features with 3D Convolutional Networks |
 | 08 |   이봉석   | Knowledge Graph and Text Jointly Embedding |
 |  09  |  송지수   | Dynamic Evaluation of Transformer Language Models |
 |  10  |  서상우   | Distributionally Robust Language Modeling |
