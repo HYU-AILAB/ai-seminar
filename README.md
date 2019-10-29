@@ -34,7 +34,7 @@
 | 08 |   이봉석   | Knowledge Graph and Text Jointly Embedding |
 |  09  |  송지수   | Dynamic Evaluation of Transformer Language Models |
 |  10  |  서상우   | Extreme Language Model Compression with Optimal Subwords and Shared Projections |
-|  11  |  조충현   | Matching the Blanks: Distributional Similarity for Relation Learning |
+|  11  |  조충현   | Graph Convolution over Pruned Dependency Trees Improves Relation Extraction |
 
 
 ## Schedule
