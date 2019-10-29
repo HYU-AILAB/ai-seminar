@@ -32,7 +32,7 @@
 | 06 |   김유리   | Unified Language Model Pre-training for Natural Language Understanding and Generation |
 | 07 |   박소영   | Learning Spatiotemporal Features with 3D Convolutional Networks |
 | 08 |   이봉석   | Knowledge Graph and Text Jointly Embedding |
-|  09  |  송지수   | Dynamic Evaluation of Transformer Language Models |
+|  09  |  송지수   | ALBERT: A Lite BERT for Self-supervised Learning of Language Representations |
 |  10  |  서상우   | Extreme Language Model Compression with Optimal Subwords and Shared Projections |
 |  11  |  조충현   | Graph Convolution over Pruned Dependency Trees Improves Relation Extraction |
 
