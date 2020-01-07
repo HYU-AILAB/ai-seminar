@@ -1,4 +1,4 @@
-# AI Seminar Season #10 (Dec 3, 2019 - Feb 4, 2020)
+# AI Seminar Season #10 (Dec 3, 2019 - Feb 11, 2020)
 [한양대학교 인공지능연구실](http://ai.hanyang.ac.kr/)에서 매주 진행하는 AI Seminar 발표 자료 및 구현 코드를 담고 있습니다. Season #10 은 각자 Deep Learning 관련 paper을 선정하여 세미나를 진행합니다.
 
 
@@ -13,7 +13,7 @@
 |7  | [Season 7 : Deep Learning 자율 주제 세미나](https://github.com/roomylee/deep-learning-seminar/tree/master/season_7) |  May 07, 2019 - Jun 10, 2019 |
 |8  | [Season 8 : Deep Learning 자율 주제 세미나](https://github.com/roomylee/deep-learning-seminar/tree/master/season_8) |  Jul 15, 2019 - Aug 19, 2019 |
 |9  | [Season 9 : Deep Learning 자율 주제 세미나](https://github.com/roomylee/deep-learning-seminar/tree/master/season_9) |  Sep 17, 2019 - Oct 22, 2019 |
-|10 | [Season 10 : Deep Learning 자율 주제 세미나](https://github.com/roomylee/deep-learning-seminar) | Dec 3, 2019 - Feb 4, 2020 |
+|10 | [Season 10 : Deep Learning 자율 주제 세미나](https://github.com/roomylee/deep-learning-seminar) | Dec 3, 2019 - Feb 11, 2020 |
 
 ## Seminar Rules
 * 매주 **화요일 6시 30분**에 시작하여, 발표 당 시간은 **60분 이내**로 진행한다.
@@ -43,12 +43,12 @@
 |:--:|:------------:|:-----------:|
 | 01 | Dec 3, 2019  |   김유리    |
 |  02  | Dec 10, 2019 |   정지은    |
-|  03  | Dec 17, 2019 |   조건희    |
-|  04  | Jan 7, 2020  |   조충현    |
-|  05  | Jan 14, 2020 |   박소영    |
-|  06  | Jan 21, 2020 |   오지은    |
-|  07  | Jan 28, 2020 | 이봉석 |
-| 08 | Feb 4, 2020 | 송지수 |
+|  03  | Jan 7, 2020 |   조건희    |
+|  04  | Jan 14, 2020 |   조충현    |
+|  05  | Jan 21, 2020 |   박소영    |
+|  06  | Jan 28, 2020 |   오지은    |
+|  07  | Feb 4, 2020 | 이봉석 |
+| 08 | Feb 11, 2020 | 송지수 |
 
 ## Git Manual & Markdown Editor
 * [Git & Github 메뉴얼](https://github.com/roomylee/deep-learning-seminar/blob/master/git%20%26%20github.pdf)을 참고하여 본인이 준비한 자료를 정상적으로 Repo에 올릴 수 있도록 한다.
