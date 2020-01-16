@@ -1,4 +1,4 @@
-﻿# Attention Guided Graph Convolutional Networks for Relation Extraction
+# Attention Guided Graph Convolutional Networks for Relation Extraction
 
 ## Paper
 
