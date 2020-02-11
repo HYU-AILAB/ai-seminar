@@ -31,7 +31,7 @@
 | 04 |   조충현   | Attention Guided Graph Convolutional Networks for Relation Extraction |
 | 05 |   박소영   | W-TALC: Weakly-supervised Temporal Activity Localization and Classification |
 | 06 |   오지은   | Masked Sequence to Sequence Pre-training for Language Generation |
-| 07 |   이봉석   | Deep contextualized word representations |
+| 07 |   이봉석   | Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification |
 | 08 |   송지수   | Sentiment Classification using Document Embeddings trained with Cosine Similarity |
 
 
