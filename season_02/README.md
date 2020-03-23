@@ -3,8 +3,8 @@
 
 |#  | Topic                                  | Period |
 |:--|:---------------------------------------|:---------------:|
-|1  | [Season 1 : Deep Learning 기초 모델 세미나](https://github.com/roomylee/deep-learning-seminar/tree/master/season_1)  | Nov 9, 2017 - Apr 12, 2018|
-|2  | [Season 2 : Deep Learning Paper Review](https://github.com/roomylee/deep-learning-seminar/tree/master/season_2) | Apr 19, 2018 - Jun 7, 2018 |
+|1  | [Season 1 : Deep Learning 기초 모델 세미나](https://github.com/roomylee/deep-learning-seminar/tree/master/season_01) | Nov 9, 2017 - Apr 12, 2018|
+|2  | [Season 2 : Deep Learning Paper Review](https://github.com/roomylee/deep-learning-seminar/tree/master/season_02) | Apr 19, 2018 - Jun 7, 2018 |
 
 
 ## Seminar Rules

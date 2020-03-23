@@ -3,10 +3,10 @@
 
 |#  | Topic                                  | Period |
 |:--|:---------------------------------------|:---------------:|
-|1  | [Season 1 : Deep Learning 기초 모델 세미나](https://github.com/roomylee/deep-learning-seminar/tree/master/season_1)  | Nov 9, 2017 - Apr 12, 2018|
-|2  | [Season 2 : Deep Learning Paper Review](https://github.com/roomylee/deep-learning-seminar/tree/master/season_2) | Apr 19, 2018 - May 31, 2018 |
-|3  | [Season 3 : Deep Learning 주제 리딩 세미나](https://github.com/roomylee/deep-learning-seminar/tree/master/season_3) | Jul 4, 2018 - Aug 29, 2018 |
-|4  | [Season 4 : 업무별 그룹 주최 세미나](https://github.com/roomylee/deep-learning-seminar/tree/master/season_4) |  Sep 12, 2018 - Dec 5, 2018 |
+|1  | [Season 1 : Deep Learning 기초 모델 세미나](https://github.com/roomylee/deep-learning-seminar/tree/master/season_01) | Nov 9, 2017 - Apr 12, 2018|
+|2  | [Season 2 : Deep Learning Paper Review](https://github.com/roomylee/deep-learning-seminar/tree/master/season_02) | Apr 19, 2018 - May 31, 2018 |
+|3  | [Season 3 : Deep Learning 주제 리딩 세미나](https://github.com/roomylee/deep-learning-seminar/tree/master/season_03) | Jul 4, 2018 - Aug 29, 2018 |
+|4  | [Season 4 : 업무별 그룹 주최 세미나](https://github.com/roomylee/deep-learning-seminar/tree/master/season_04) |  Sep 12, 2018 - Dec 5, 2018 |
 
 ## Seminar Rules
 * 매주 **시간 미정**에 시작하여, **2시간 이내**로 진행한다.
@@ -41,7 +41,7 @@
 | 8 | Multiple Object Tracking with Candidate and Re-id | Nov 14, 2018  | 비전 |
 | 9 | BERT: transformer-based language model for pre-training | Nov 22, 2018 | 자연어처리 |
 | 10 | Accurate, Large Minibatch SGD Training ImageNet in 1 Hour | Nov 29, 2018 | 데이터분석 |
-| 11 | Large Taxonomy Induction Using Entity and Word Embeddings | Dec 5, 2018 | 로봇 | 
+| 11 | Large Taxonomy Induction Using Entity and Word Embeddings | Dec 5, 2018 | 로봇 |
 
 ## Git Manual & Markdown Editor
 * [Git & Github 메뉴얼](https://github.com/roomylee/deep-learning-seminar/blob/master/git%20%26%20github.pdf)을 참고하여 본인이 준비한 자료를 정상적으로 Repo에 올릴 수 있도록 한다.
