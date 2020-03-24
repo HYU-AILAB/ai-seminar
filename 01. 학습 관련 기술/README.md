@@ -1,5 +1,5 @@
 # [Title]
-
+학습 관련 기술
 ## Paper
 
 - link : 자체제작
