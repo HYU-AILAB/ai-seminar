@@ -1,8 +1,7 @@
-# [Title] Word Embedding
+# Word Embedding
 
-## Paper
+## List
 
-- link : 
 - 키워드 : W2V, GloVe,fasText
 - 한줄 소개 : 워드 임베딩의 기초에 대해 간단히 알고 지나가봅니다
 
