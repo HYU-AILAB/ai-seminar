@@ -4,7 +4,7 @@
 
 - link : 
 - 키워드 : Language Model, Spelling correction, Speech recognition, Machine translation
-- 한줄 소개 : 언어 모델에 대해 간단히 설명하고 Spelling correction, Speech recognition, Machine translation에서 어떻게 활용되는지
+- 한줄 소개 : 언어 모델에 대해 간단히 설명하고 응용 모델에서 어떻게 활용되는지
 
 ## References
 
