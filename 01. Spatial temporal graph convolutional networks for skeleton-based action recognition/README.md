@@ -6,7 +6,7 @@ Action recognition based on ST-GCN
 
 - 키워드 : Action_recognition, GCN, Skeleton_datasets
 
-- 한줄 소개 : 
+- 한줄 소개 :  
 
 ### References
 
