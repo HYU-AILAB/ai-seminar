@@ -1,5 +1,5 @@
 ﻿# title
-
+SYNTHESIZER : Rethinking Self-Attention in Transformer Models
 ## Paper
 
 - link : [Paper](https://arxiv.org/pdf/2005.00743.pdf)
