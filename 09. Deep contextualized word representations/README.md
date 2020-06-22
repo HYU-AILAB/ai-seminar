@@ -12,9 +12,9 @@
 
 ### References
 
-- 논문 리뷰 : https://www.youtube.com/watch?v=Vc13QVAKyGk&list=LLiqo05RDQigaTMKWErWCE6A&index=2&t=432s
-- Toronto Deep Learning Series : https://www.youtube.com/watch?v=9JfGxKkmBc0&t=1294s
-- Input으로 들어가는 Character level CNN에 대한 설명 : https://www.youtube.com/watch?v=CNY8VjJt-iQ&t=128s
+- 논문 리뷰 : https://youtu.be/Vc13QVAKyGk
+- Toronto Deep Learning Series : https://youtu.be/9JfGxKkmBc0
+- Input으로 들어가는 Character level CNN에 대한 설명 : https://youtu.be/CNY8VjJt-iQ
 - ELMo에 대해 상세한 설명들이 있는 곳
   - http://giyeon.blogspot.com/2019/01/elmo-deep-contextualized-word.html
   - http://mlgalaxy.blogspot.com/2018/12/elmo-deep-contextualized-word.html
