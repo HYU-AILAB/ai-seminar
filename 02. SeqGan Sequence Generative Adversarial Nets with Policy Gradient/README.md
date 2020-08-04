@@ -1,5 +1,4 @@
 ﻿# title
-
 ## Seqgan: Sequence generative adversarial nets with policy gradient.
 
 - link : https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14344/14489
