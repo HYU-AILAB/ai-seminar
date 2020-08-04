@@ -1,6 +1,6 @@
 ﻿# title
 
-## Paper
+## Paper  Yu, Lantao, et al. "Seqgan: Sequence generative adversarial nets with policy gradient." Thirty-first AAAI conference on artificial intelligence. 2017.
 
 - link : 
 
