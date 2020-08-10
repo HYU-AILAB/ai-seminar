@@ -30,7 +30,7 @@
 |:--:|:---------:|:-------:|
 | 01 |  김웅희  | EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks |
 | 02 |  최원혁  | SeqGan: Sequence Generative Adversarial Nets with Policy Gradient |
-| 03 |  박소영  | Variational Autoencoders for Collaborative Filtering |
+| 03 |  박소영  | BERT4Rec: Sequential recommendation with bidirectional encoder representations from transformer |
 | 04 |  이봉석  | SpanBERT: Improving Pre-training by Representing and Predicting Spans |
 | 05 |  조충현  | RoBERTa: A Robustly Optimized BERT Pretraining Approach |
 | 06 |  이은수  | BLEURT: Learning Robust Metrics for Text Generation |
