@@ -34,8 +34,7 @@
 | 04 |  이봉석  | SpanBERT: Improving Pre-training by Representing and Predicting Spans |
 | 05 |  조충현  | RoBERTa: A Robustly Optimized BERT Pretraining Approach |
 | 06 |  이은수  | BLEURT: Learning Robust Metrics for Text Generation |
-| 07 |  김유리  | DialogueGCN: A Graph Convolutional Neural Network for
-Emotion Recognition in Conversation |
+| 07 |  김유리  | DialogueGCN: A Graph Convolutional Neural Network for Emotion Recognition in Conversation |
 | 08 |   정지은   | Pix2Pose: Pix2Pose: Pixel-Wise Coordinate Regression of Objects for 6D Pose Estimation |
 | 09 | 조건희 | Advances in pre-training distributed word representations |
 | 10 | 오지은 | MUSE: Multi-Scale Attention Model for Sequence to Sequence Learning |
