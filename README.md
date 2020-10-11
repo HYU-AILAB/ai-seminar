@@ -1,4 +1,4 @@
-# AI Seminar Season #13 (Aug 03, 2020 - Sep 07, 2020)
+# AI Seminar Season #13 (Oct 12, 2020 - Nov 09, 2020)
 [한양대학교 인공지능연구실](http://ai.hanyang.ac.kr/)에서 매주 진행하는 AI Seminar 발표 자료 및 구현 코드를 담고 있습니다. Season #14 은 각자 Deep Learning 관련 paper을 선정하여 세미나를 진행합니다.
 
 
