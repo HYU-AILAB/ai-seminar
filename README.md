@@ -17,6 +17,7 @@
 |11 | [Season 11 : Deep Learning 기초 모델 복습 세미나](https://github.com/roomylee/deep-learning-seminar/tree/master/season_11) | Mar 24, 2020 - Apr 14, 2020 |
 |12 | [Season 12 : Deep Learning 자율 주제 세미나](https://github.com/roomylee/deep-learning-seminar/tree/master/season_12) | May 18, 2020 - June 22, 2020 |
 |13 | [Season 13 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar) | Aug 03, 2020 - Sep 07, 2020 |
+|13 | [Season 14 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar) | Oct 12, 2020 - Nov 09, 2020 |
 
 ## Seminar Rules
 * 매주 **월요일 6시**에 시작하여, 발표 당 시간은 **30분 이내**로 진행한다.
@@ -28,16 +29,16 @@
 ## Topics
 | #  | Presenter | Subject |
 |:--:|:---------:|:-------:|
-| 01 |  김웅희  | EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks |
-| 02 |  최원혁  | SeqGan: Sequence Generative Adversarial Nets with Policy Gradient |
-| 03 |  박소영  | BERT4Rec: Sequential recommendation with bidirectional encoder representations from transformer |
-| 04 |  이봉석  | SpanBERT: Improving Pre-training by Representing and Predicting Spans |
-| 05 |  조충현  | RoBERTa: A Robustly Optimized BERT Pretraining Approach |
-| 06 |  이은수  | BLEURT: Learning Robust Metrics for Text Generation |
-| 07 |  김유리  | DialogueGCN: A Graph Convolutional Neural Network for Emotion Recognition in Conversation |
-| 08 |   정지은   | Pix2Pose: Pix2Pose: Pixel-Wise Coordinate Regression of Objects for 6D Pose Estimation |
-| 09 | 조건희 | Advances in pre-training distributed word representations |
-| 10 | 오지은 | MUSE: Multi-Scale Attention Model for Sequence to Sequence Learning |
+| 01 |  조건희  | Squeeze-and-Excitation Networks |
+| 02 |  이은수  | BLEU might be Guilty but References are not Innocent |
+| 03 |  오지은  | Understanding Back-Translation at Scale |
+| 04 |  김웅희  | Data Noising as Smoothing in Neural Network Language Models |
+| 05 |  임희주  | Spatio-Temporal Graph for Video Captioning with Knowledge Distillation |
+| 06 |  김남형  | REFORMER: THE EFFICIENT TRANSFORMER |
+| 07 |  이봉석  | Reasoning with Latent Structure Refinement for Document-Level Relation Extraction |
+| 08 |   강사무엘   | Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network |
+| 09 | 백형렬 | BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension |
+| 10 | 최원혁 | TBD |
 
 
 ## Schedule
@@ -46,16 +47,16 @@
 
 | #  | Date         | Presenter 1 |
 |:--:|:------------:|:-----------:|
-| 01 | Aug 03 |   김웅희   |
-|  02  | Aug 03 |   최원혁   |
-|  03  | Aug 10 |   박소영   |
-|  04  | Aug 10 |   이봉석   |
-|  05  | Aug 24 |   조충현   |
-|  06  | Aug 24 |   이은수   |
-|  07  | Aug 31 | 김유리 |
-| 08 | Aug 31 | 정지은 |
-| 09 | Sep 07 | 조건희 |
-| 10 | Sep 07 | 오지은 |
+| 01 | Oct 12 |   조건희   |
+|  02  | Oct 12 |   이은수   |
+|  03  | Oct 19 |   오지은   |
+|  04  | Oct 19 |   김웅희   |
+|  05  | Oct 26 |   임희주   |
+|  06  | Oct 26 |   김남형   |
+|  07  | Nov 02 | 이봉석 |
+| 08 | Nov 02 | 강사무엘 |
+| 09 | Nov 09 | 백형렬 |
+| 10 | Nov 09 | 최원혁 |
 
 ## Git Manual & Markdown Editor
 * [Git & Github 메뉴얼](https://github.com/roomylee/deep-learning-seminar/blob/master/git%20%26%20github.pdf)을 참고하여 본인이 준비한 자료를 정상적으로 Repo에 올릴 수 있도록 한다.
