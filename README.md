@@ -38,7 +38,7 @@
 | 07 |  이봉석  | Reasoning with Latent Structure Refinement for Document-Level Relation Extraction |
 | 08 |   강사무엘   | Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network |
 | 09 | 백형렬 | BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension |
-| 10 | 최원혁 | TBD |
+| 10 | 최원혁 | Faster RCNN & YOLOv2 |
 
 
 ## Schedule
