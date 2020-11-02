@@ -35,7 +35,7 @@
 | 04 |  김웅희  | Data Noising as Smoothing in Neural Network Language Models |
 | 05 |  임희주  | Spatio-Temporal Graph for Video Captioning with Knowledge Distillation |
 | 06 |  김남형  | REFORMER: THE EFFICIENT TRANSFORMER |
-| 07 |  이봉석  | Reasoning with Latent Structure Refinement for Document-Level Relation Extraction |
+| 07 |  이봉석  | Double Graph Based Reasoning for Document-level Relation Extraction |
 | 08 |   강사무엘   | Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network |
 | 09 | 백형렬 | BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension |
 | 10 | 최원혁 | Faster RCNN & YOLOv2 |
