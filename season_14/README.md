@@ -18,7 +18,6 @@
 |12 | [Season 12 : Deep Learning 자율 주제 세미나](https://github.com/roomylee/deep-learning-seminar/tree/master/season_12) | May 18, 2020 - June 22, 2020 |
 |13 | [Season 13 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_13) | Aug 03, 2020 - Sep 07, 2020 |
 |14 | [Season 14 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar) | Oct 12, 2020 - Nov 09, 2020 |
-|15 | [Season 15 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar) | Jan 18, 2021 - Feb 8, 2021 |
 
 ## Seminar Rules
 * 매주 **월요일 6시**에 시작하여, 발표 당 시간은 **30분 이내**로 진행한다.
@@ -30,14 +29,16 @@
 ## Topics
 | #  | Presenter | Subject |
 |:--:|:---------:|:-------:|
-| 01 |  백형렬  | You Impress Me: Dialogue Generation via Mutual Persona Perception  |
-| 02 |  강사무엘  | Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild |
-| 03 |  김웅희  | Convolutional Neural Networks for Sentence Classification |
-| 04 |  조건희  | Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs |
-| 05 |  최원혁  | TBD |
-| 06 |  이은수  | Text-to-Image Generation Grounded by Fine-Grained User Attention |
-| 07 |  임희주  | Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering |
-| 08 |  정진우  | Higher-Order Coreference Resolution with Coarse-to-Fine Inference |
+| 01 |  조건희  | Squeeze-and-Excitation Networks |
+| 02 |  이은수  | BLEU might be Guilty but References are not Innocent |
+| 03 |  오지은  | Understanding Back-Translation at Scale |
+| 04 |  김웅희  | Data Noising as Smoothing in Neural Network Language Models |
+| 05 |  임희주  | Spatio-Temporal Graph for Video Captioning with Knowledge Distillation |
+| 06 |  김남형  | REFORMER: THE EFFICIENT TRANSFORMER |
+| 07 |  이봉석  | Double Graph Based Reasoning for Document-level Relation Extraction |
+| 08 |   강사무엘   | SinGAN： Learning a Generative Model from a Single Natural Image |
+| 09 | 백형렬 | BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension |
+| 10 | 최원혁 | Faster RCNN & YOLOv2 |
 
 
 ## Schedule
@@ -46,15 +47,16 @@
 
 | #  | Date         | Presenter |
 |:--:|:------------:|:-----------:|
-| 01 | Jan 18 |   백형렬   |
-|  02  | Jan 18 |   강사무엘   |
-|  03  | Jan 25 |   김웅희   |
-|  04  | Jan 25 |   조건희   |
-|  05  | Feb 01 |   최원혁   |
-|  06  | Feb 01 |   이은수   |
-|  07  | Feb 08 | 임희주 |
-| 08 | Feb 08 | 정진우 |
-
+| 01 | Oct 12 |   조건희   |
+|  02  | Oct 12 |   이은수   |
+|  03  | Oct 19 |   오지은   |
+|  04  | Oct 19 |   김웅희   |
+|  05  | Oct 26 |   임희주   |
+|  06  | Oct 26 |   김남형   |
+|  07  | Nov 02 | 이봉석 |
+| 08 | Nov 02 | 강사무엘 |
+| 09 | Nov 09 | 백형렬 |
+| 10 | Nov 09 | 최원혁 |
 
 ## Git Manual & Markdown Editor
 * [Git & Github 메뉴얼](https://github.com/roomylee/deep-learning-seminar/blob/master/git%20%26%20github.pdf)을 참고하여 본인이 준비한 자료를 정상적으로 Repo에 올릴 수 있도록 한다.
