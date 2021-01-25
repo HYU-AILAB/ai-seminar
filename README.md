@@ -17,7 +17,7 @@
 |11 | [Season 11 : Deep Learning 기초 모델 복습 세미나](https://github.com/roomylee/deep-learning-seminar/tree/master/season_11) | Mar 24, 2020 - Apr 14, 2020 |
 |12 | [Season 12 : Deep Learning 자율 주제 세미나](https://github.com/roomylee/deep-learning-seminar/tree/master/season_12) | May 18, 2020 - June 22, 2020 |
 |13 | [Season 13 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_13) | Aug 03, 2020 - Sep 07, 2020 |
-|14 | [Season 14 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar) | Oct 12, 2020 - Nov 09, 2020 |
+|14 | [Season 14 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_14) | Oct 12, 2020 - Nov 09, 2020 |
 |15 | [Season 15 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar) | Jan 18, 2021 - Feb 8, 2021 |
 
 ## Seminar Rules
