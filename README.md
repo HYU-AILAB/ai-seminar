@@ -34,7 +34,7 @@
 | 02 |  강사무엘  | Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild |
 | 03 |  김웅희  | Convolutional Neural Networks for Sentence Classification |
 | 04 |  조건희  | Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs |
-| 05 |  최원혁  | TBD |
+| 05 |  최원혁  | Supervised Contrastive Learning For Pre-trained Language Model Fine-tuning |
 | 06 |  이은수  | Text-to-Image Generation Grounded by Fine-Grained User Attention |
 | 07 |  임희주  | Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering |
 | 08 |  정진우  | Higher-Order Coreference Resolution with Coarse-to-Fine Inference |
