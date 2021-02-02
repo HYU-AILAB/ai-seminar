@@ -8,19 +8,19 @@
 
 ### References
 
-Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning 리뷰, HOYA012’S RESEARCH BLOG, https://hoya012.github.io/blog/byol/
+ - **_Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning 리뷰, HOYA012’S RESEARCH BLOG, https://hoya012.github.io/blog/byol/
 
-PR-231: A Simple Framework for Contrastive Learning of Visual Representations, JinWon Lee, https://youtu.be/FWhM3juUM6s
+ - **_PR-231: A Simple Framework for Contrastive Learning of Visual Representations, JinWon Lee, https://youtu.be/FWhM3juUM6s
 
-Self-Supervised Learning(Algorithm&application), Seokho Moon, file:///C:/Users/wonhyuk/Desktop/20201120_Self_Supervised_Representation_Learning_Seokho.pdf
+- **_Self-Supervised Learning(Algorithm&application), Seokho Moon, file:///C:/Users/wonhyuk/Desktop/20201120_Self_Supervised_Representation_Learning_Seokho.pdf
 
-Chen, Ting, et al. "A simple framework for contrastive learning of visual representations." International conference on machine learning. PMLR, 2020.
+- **_Chen, Ting, et al. "A simple framework for contrastive learning of visual representations." International conference on machine learning. PMLR, 2020.
 
-Gunel, Beliz, et al. "Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning." arXiv preprint arXiv:2011.01403 (2020).
+- **_Gunel, Beliz, et al. "Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning." arXiv preprint arXiv:2011.01403 (2020).
 
-Temperature Scaling, Calibration: On Calibration of Modern Neural Netwoks, Curaai00’s Deep Learning Blog, https://curaai00.tistory.com/10
+- **_Temperature Scaling, Calibration: On Calibration of Modern Neural Netwoks, Curaai00’s Deep Learning Blog, https://curaai00.tistory.com/10
 
-The Illustrated SimCLR Framework, Amit Chaudhary, https://amitness.com/2020/03/illustrated-simclr/
+- **_The Illustrated SimCLR Framework, Amit Chaudhary, https://amitness.com/2020/03/illustrated-simclr/
 
-SimCLR을 이용한 향상된 자기주도 및 반주도 학습, 시나브로의 테크산책, https://brunch.co.kr/@synabreu/76
+- **_SimCLR을 이용한 향상된 자기주도 및 반주도 학습, 시나브로의 테크산책, https://brunch.co.kr/@synabreu/76
 
