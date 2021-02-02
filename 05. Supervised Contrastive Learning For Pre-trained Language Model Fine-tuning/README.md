@@ -1,5 +1,5 @@
 ﻿# Title
-##Supervised Contrastive Learning For Pre-trained Language Model Fine-tuning
+## Supervised Contrastive Learning For Pre-trained Language Model Fine-tuning
 ## Paper
 
 - link : https://arxiv.org/abs/2011.01403
