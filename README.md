@@ -36,7 +36,7 @@
 | 04 |  조건희  | Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs |
 | 05 |  최원혁  | Supervised Contrastive Learning For Pre-trained Language Model Fine-tuning |
 | 06 |  이은수  | Text-to-Image Generation Grounded by Fine-Grained User Attention |
-| 07 |  임희주  | Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering |
+| 07 |  임희주  | Tell Me Where to Look: Guided Attention Inference Network|
 | 08 |  정진우  | Higher-Order Coreference Resolution with Coarse-to-Fine Inference |
 
 
