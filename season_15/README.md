@@ -18,8 +18,7 @@
 |12 | [Season 12 : Deep Learning 자율 주제 세미나](https://github.com/roomylee/deep-learning-seminar/tree/master/season_12) | May 18, 2020 - June 22, 2020 |
 |13 | [Season 13 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_13) | Aug 03, 2020 - Sep 07, 2020 |
 |14 | [Season 14 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_14) | Oct 12, 2020 - Nov 09, 2020 |
-|15 | [Season 15 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_15) | Jan 18, 2021 - Feb 8, 2021 |
-|15 | [Season 15 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/) | Mar 5, 2021 - Apr 5, 2021 |
+|15 | [Season 15 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar) | Jan 18, 2021 - Feb 8, 2021 |
 
 ## Seminar Rules
 * 매주 **월요일 6시**에 시작하여, 발표 당 시간은 **30분 이내**로 진행한다.
@@ -28,22 +27,33 @@
 * 발표 자료는 **PDF 형식**으로 만들어서 올리도록 한다.
 * 모든 세미나 자료는 github을 통해 공유하여 추후 개인 포트폴리오로 활용할 수 있도록 한다.
 
+## Topics
+| #  | Presenter | Subject |
+|:--:|:---------:|:-------:|
+| 01 |  백형렬  | You Impress Me: Dialogue Generation via Mutual Persona Perception  |
+| 02 |  강사무엘  | Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild |
+| 03 |  김웅희  | Convolutional Neural Networks for Sentence Classification |
+| 04 |  조건희  | Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs |
+| 05 |  최원혁  | Supervised Contrastive Learning For Pre-trained Language Model Fine-tuning |
+| 06 |  이은수  | Text-to-Image Generation Grounded by Fine-Grained User Attention |
+| 07 |  임희주  | Tell Me Where to Look: Guided Attention Inference Network|
+| 08 |  정진우  | Higher-Order Coreference Resolution with Coarse-to-Fine Inference |
+
+
 ## Schedule
 * 총 5주간 진행
 * 최소한 발표 1주 전까지는 발표주제 update!
 
-| #  | Date         | Presenter | Subject |
-|:--:|:------------:|:-----------:|:-------:|
-|01| Mar 8  | 김수형  | Japanese and korean voice search                                                                          |
-|02| Mar 8  | 정근욱  | Bidirectional Attention Flow for Machine Comprehension                                                    |
-|03| Mar 15 | 조환희  | GAN-BERT: Generative Adversarial Learning for Robust Text Classification with a Bunch of Labeled Examples |
-|04| Mar 15 | 김형섭  | Progressive Ensemble Networks for Zero-Shot Recognition                                                   |
-|05| Mar 22 | 백형렬  | Exposing Shallow Heuristics of Relation Extraction Models with Challenge Data                             |
-|06| Mar 22 | 최원혁  | Language Models are Few-Shot Learners (aka. GPT-Mar                                                       |
-|07| Mar 29 | 조건희  | TBD                                                                                                       |
-|08| Mar 29 | 강사무엘 | Recurrent Back-Projection Network for Video Super-Resolution                                              |
-|09| Apr 5  | 정진우  | TBD                                                                                                        |
-|10| Apr 5  | 박지현  | Learning to Segment Every Thing                                                                           |
+| #  | Date         | Presenter |
+|:--:|:------------:|:-----------:|
+| 01 | Jan 18 |   백형렬   |
+|  02  | Jan 18 |   강사무엘   |
+|  03  | Jan 25 |   김웅희   |
+|  04  | Jan 25 |   조건희   |
+|  05  | Feb 01 |   최원혁   |
+|  06  | Feb 01 |   이은수   |
+|  07  | Feb 08 | 임희주 |
+| 08 | Feb 08 | 정진우 |
 
 
 ## Git Manual & Markdown Editor
