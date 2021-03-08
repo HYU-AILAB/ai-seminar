@@ -1,4 +1,4 @@
-# AI Seminar Season #15 (Jan 18, 2021 - Feb 08, 2021)
+# AI Seminar Season #16 (Mar 5, 2021 - Apr 5, 2021)
 [한양대학교 인공지능연구실](http://ai.hanyang.ac.kr/)에서 매주 진행하는 AI Seminar 발표 자료 및 구현 코드를 담고 있습니다. Season #15 은 각자 Deep Learning 관련 paper을 선정하여 세미나를 진행합니다.
 
 
@@ -19,7 +19,7 @@
 |13 | [Season 13 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_13) | Aug 03, 2020 - Sep 07, 2020 |
 |14 | [Season 14 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_14) | Oct 12, 2020 - Nov 09, 2020 |
 |15 | [Season 15 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_15) | Jan 18, 2021 - Feb 8, 2021 |
-|15 | [Season 15 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/) | Mar 5, 2021 - Apr 5, 2021 |
+|15 | [Season 16 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/) | Mar 5, 2021 - Apr 5, 2021 |
 
 ## Seminar Rules
 * 매주 **월요일 6시**에 시작하여, 발표 당 시간은 **30분 이내**로 진행한다.
@@ -33,7 +33,7 @@
 * 최소한 발표 1주 전까지는 발표주제 update!
 
 | #  | Date         | Presenter | Subject |
-|:--:|:------------:|:-----------:|:-------:|
+|:--:|:---------------:|:-----------:|:-------:|
 |01| Mar 8  | 김수형  | Japanese and korean voice search                                                                          |
 |02| Mar 8  | 정근욱  | Bidirectional Attention Flow for Machine Comprehension                                                    |
 |03| Mar 15 | 조환희  | GAN-BERT: Generative Adversarial Learning for Robust Text Classification with a Bunch of Labeled Examples |
