@@ -41,8 +41,8 @@
 |05| Mar 22 | 백형렬  | Exposing Shallow Heuristics of Relation Extraction Models with Challenge Data                             |
 |06| Mar 22 | 최원혁  | Language Models are Few-Shot Learners (aka. GPT-Mar                                                       |
 |07| Mar 29 | 조건희  | TBD                                                                                                       |
-|08| Mar 29 | 강사무엘 | Recurrent Back-Projection Network for Video Super-Resolution                                              |
-|09| Apr 5  | 정진우  | TBD                                                                                                        |
+|08| Mar 29 | 강사무엘 | Recurrent Back-Projection Network for Video Super-Resolution                                             |
+|09| Apr 5  | 정진우  | Conversation Model Fine-Tuning for Classifying Client Utterances in Counseling Dialogues                  |
 |10| Apr 5  | 박지현  | Learning to Segment Every Thing                                                                           |
 
 
