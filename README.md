@@ -1,4 +1,4 @@
-# AI Seminar Season #16 (Jun 21, 2021 - Jul 5, 2021)
+# AI Seminar Season #17 (Jun 21, 2021 - Jul 5, 2021)
 [한양대학교 인공지능연구실](http://ai.hanyang.ac.kr/)에서 매주 진행하는 AI Seminar 발표 자료 및 구현 코드를 담고 있습니다. Season #15 은 각자 Deep Learning 관련 paper을 선정하여 세미나를 진행합니다.
 
 
@@ -46,4 +46,3 @@
 ## Git Manual & Markdown Editor
 * [Git & Github 메뉴얼](https://github.com/roomylee/deep-learning-seminar/blob/master/git%20%26%20github.pdf)을 참고하여 본인이 준비한 자료를 정상적으로 Repo에 올릴 수 있도록 한다.
 * 예습자료(README)를 작성할 때는 **Visual Studio Code**([download](https://code.visualstudio.com/Download)), **MarkRight**([download](https://github.com/dvcrn/markright/releases/download/0.1.11/MarkRight_Windows64.exe))등의 Editor를 사용하도록 한다.
-* Markdown 문법은 구글링... 다 공부하지 말고 필요한 것만 찾아서 쓰도록 한다.
