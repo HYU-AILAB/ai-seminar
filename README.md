@@ -1,4 +1,4 @@
-# AI Seminar Season #16 (Mar 5, 2021 - Apr 5, 2021)
+# AI Seminar Season #16 (Jun 21, 2021 - Jul 5, 2021)
 [한양대학교 인공지능연구실](http://ai.hanyang.ac.kr/)에서 매주 진행하는 AI Seminar 발표 자료 및 구현 코드를 담고 있습니다. Season #15 은 각자 Deep Learning 관련 paper을 선정하여 세미나를 진행합니다.
 
 
@@ -19,7 +19,8 @@
 |13 | [Season 13 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_13) | Aug 03, 2020 - Sep 07, 2020 |
 |14 | [Season 14 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_14) | Oct 12, 2020 - Nov 09, 2020 |
 |15 | [Season 15 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_15) | Jan 18, 2021 - Feb 8, 2021 |
-|15 | [Season 16 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/) | Mar 5, 2021 - Apr 5, 2021 |
+|16 | [Season 16 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/season_16) | Mar 5, 2021 - Apr 5, 2021 |
+|17 | [Season 17 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/) | Jun 21, 2021 - Jul 5, 2021 |
 
 ## Seminar Rules
 * 매주 **월요일 6시**에 시작하여, 발표 당 시간은 **30분 이내**로 진행한다.
@@ -29,21 +30,17 @@
 * 모든 세미나 자료는 github을 통해 공유하여 추후 개인 포트폴리오로 활용할 수 있도록 한다.
 
 ## Schedule
-* 총 5주간 진행
 * 최소한 발표 1주 전까지는 발표주제 update!
+
 
 | #  | Date         | Presenter | Subject |
 |:--:|:---------------:|:-----------:|:-------:|
-|01| Mar 8  | 김수형  | Japanese and korean voice search                                                                          |
-|02| Mar 8  | 정근욱  | Bidirectional Attention Flow for Machine Comprehension                                                    |
-|03| Mar 15 | 조환희  | GAN-BERT: Generative Adversarial Learning for Robust Text Classification with a Bunch of Labeled Examples |
-|04| Mar 15 | 김형섭  | Progressive Ensemble Networks for Zero-Shot Recognition                                                   |
-|05| Mar 22 | 백형렬  | Exposing Shallow Heuristics of Relation Extraction Models with Challenge Data                             |
-|06| Mar 22 | 최원혁  | Language Models are Few-Shot Learners (aka. GPT-Mar                                                       |
-|07| Mar 29 | 조건희  | TBD                                                                                                       |
-|08| Mar 29 | 강사무엘 | Recurrent Back-Projection Network for Video Super-Resolution                                             |
-|09| Apr 5  | 정진우  | Conversation Model Fine-Tuning for Classifying Client Utterances in Counseling Dialogues                  |
-|10| Apr 5  | 박지현  | Learning to Segment Every Thing                                                                           |
+|01| Jun 21  | 조환희  | Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI |
+|02| Jun 21  | 정근욱  | Universal Transformers |
+|03| Jun 28  | 임희주  | TBD |
+|04| Jun 28  | 백형렬  | Recipes for Building an Open-Domain Chatbot |
+|05| Jul 5   | 김수형  | TBD |
+|06| Jul 5   | 김형섭  | TBD |
 
 
 ## Git Manual & Markdown Editor
