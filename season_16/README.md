@@ -19,7 +19,7 @@
 |13 | [Season 13 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_13) | Aug 03, 2020 - Sep 07, 2020 |
 |14 | [Season 14 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_14) | Oct 12, 2020 - Nov 09, 2020 |
 |15 | [Season 15 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_15) | Jan 18, 2021 - Feb 8, 2021 |
-|15 | [Season 16 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/) | Mar 5, 2021 - Apr 5, 2021 |
+|15 | [Season 16 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_16) | Mar 5, 2021 - Apr 5, 2021 |
 
 ## Seminar Rules
 * 매주 **월요일 6시**에 시작하여, 발표 당 시간은 **30분 이내**로 진행한다.
@@ -39,8 +39,8 @@
 |03| Mar 15 | 조환희  | GAN-BERT: Generative Adversarial Learning for Robust Text Classification with a Bunch of Labeled Examples |
 |04| Mar 15 | 김형섭  | Progressive Ensemble Networks for Zero-Shot Recognition                                                   |
 |05| Mar 22 | 백형렬  | Exposing Shallow Heuristics of Relation Extraction Models with Challenge Data                             |
-|06| Mar 22 | 최원혁  | Language Models are Few-Shot Learners (aka. GPT-Mar                                                       |
-|07| Mar 29 | 조건희  | TBD                                                                                                       |
+|06| Mar 22 | 최원혁  | Language Models are Few-Shot Learners (aka. GPT-3)                                                       |
+|07| Mar 29 | 조건희  | Improving Zero Shot Recognition by Visual Context Embeddings                                                                                                       |
 |08| Mar 29 | 강사무엘 | Recurrent Back-Projection Network for Video Super-Resolution                                             |
 |09| Apr 5  | 정진우  | Conversation Model Fine-Tuning for Classifying Client Utterances in Counseling Dialogues                  |
 |10| Apr 5  | 박지현  | Learning to Segment Every Thing                                                                           |
