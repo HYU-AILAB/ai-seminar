@@ -37,7 +37,7 @@
 |:--:|:---------------:|:-----------:|:-------:|
 |01| Jun 21  | 조환희  | Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI |
 |02| Jun 21  | 정근욱  | Universal Transformers |
-|03| Jun 28  | 임희주  | TBD |
+|03| Jun 28  | 임희주  | An Image Is Worth 16X16 Words:Transformers For Image Recognition At Scale |
 |04| Jun 28  | 백형렬  | Recipes for Building an Open-Domain Chatbot |
 |05| Jul 5   | 김수형  | TBD |
 |06| Jul 5   | 김형섭  | TBD |
