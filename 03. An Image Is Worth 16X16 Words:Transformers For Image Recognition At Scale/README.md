@@ -1,5 +1,5 @@
 ﻿# Title
-- AN IMAGE IS WORTH 16X16 WORDS:TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE
+- An Image Is Worth 16X16 Words:Transformers For Image Recognition At Scale
 
 ## Paper
 
