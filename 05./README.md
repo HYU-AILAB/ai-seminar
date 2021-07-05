@@ -1,5 +1,5 @@
 ﻿# Title
-- AAE(adversarial autoencoder)
+- AE & GAN(adversarial autoencoder)
 
 ## Paper
 
