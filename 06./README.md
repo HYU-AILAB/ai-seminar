@@ -1,6 +1,6 @@
 ﻿# Title
 - Weight Standardization
-Qiao, Siyuan, et al. "Weight Standardization“ Computer Vision and Pattern Recognition” (2019).
+<br>Qiao, Siyuan, et al. "Weight Standardization“ Computer Vision and Pattern Recognition” (2019).
 ## Paper
 
 - link : https://arxiv.org/pdf/1903.10520v1.pdf
