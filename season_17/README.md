@@ -1,5 +1,5 @@
-# AI Seminar Season #17 (Aug 9, 2021 - Aug 30, 2021)
-[한양대학교 인공지능연구실](http://ai.hanyang.ac.kr/)에서 매주 진행하는 AI Seminar 발표 자료를 담고 있습니다. Season #15 은 각자 Deep Learning 관련 paper을 선정하여 세미나를 진행합니다.
+# AI Seminar Season #17 (Jun 21, 2021 - Jul 5, 2021)
+[한양대학교 인공지능연구실](http://ai.hanyang.ac.kr/)에서 매주 진행하는 AI Seminar 발표 자료 및 구현 코드를 담고 있습니다. Season #15 은 각자 Deep Learning 관련 paper을 선정하여 세미나를 진행합니다.
 
 
 |#  | Topic                                  | Period |
@@ -19,8 +19,8 @@
 |13 | [Season 13 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_13) | Aug 03, 2020 - Sep 07, 2020 |
 |14 | [Season 14 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_14) | Oct 12, 2020 - Nov 09, 2020 |
 |15 | [Season 15 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_15) | Jan 18, 2021 - Feb 8, 2021 |
-|16 | [Season 16 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_16) | Mar 5, 2021 - Apr 5, 2021 |
-|17 | [Season 17 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_17) | Jun 21, 2021 - Jul 5, 2021 |
+|16 | [Season 16 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/season_16) | Mar 5, 2021 - Apr 5, 2021 |
+|17 | [Season 17 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/) | Jun 21, 2021 - Jul 5, 2021 |
 
 ## Seminar Rules
 * 매주 **월요일 6시**에 시작하여, 발표 당 시간은 **30분 이내**로 진행한다.
@@ -32,15 +32,16 @@
 ## Schedule
 * 최소한 발표 1주 전까지는 발표주제 update!
 
+
 | #  | Date         | Presenter | Subject |
 |:--:|:---------------:|:-----------:|:-------:|
-|01| Aug 9  | 조환희  | TBD |
-|02| Aug 9  | 김수형  | TBD |
-|03| Aug 16  | 조건희  | TBD |
-|04| Aug 16  | 백형렬  | TBD |
-|05| Aug 23  | 김형섭  | TBD |
-|06| Aug 23  | 임희주  | TBD |
-|07| Aug 30  | 정지훈  | TBD |
+|01| Jun 21  | 조환희  | Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI |
+|02| Jun 21  | 정근욱  | Universal Transformers |
+|03| Jun 28  | 임희주  | An Image Is Worth 16X16 Words:Transformers For Image Recognition At Scale |
+|04| Jun 28  | 백형렬  | Recipes for Building an Open-Domain Chatbot |
+|05| Jul 5   | 김수형  | AE & GAN(adversarial autoencoder) |
+|06| Jul 5   | 김형섭  | Weight Standardization |
+
 
 ## Git Manual & Markdown Editor
 * [Git & Github 메뉴얼](https://github.com/roomylee/deep-learning-seminar/blob/master/git%20%26%20github.pdf)을 참고하여 본인이 준비한 자료를 정상적으로 Repo에 올릴 수 있도록 한다.
