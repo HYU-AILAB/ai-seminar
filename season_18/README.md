@@ -21,4 +21,26 @@
 |15 | [Season 15 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_15) | Jan 18, 2021 - Feb 8, 2021 |
 |16 | [Season 16 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_16) | Mar 5, 2021 - Apr 5, 2021 |
 |17 | [Season 17 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_17) | Jun 21, 2021 - Jul 5, 2021 |
-|18 | [Season 18 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_18) | Aug 9, 2021 - Aug 30, 2021 |
+
+## Seminar Rules
+* 매주 **월요일 6시**에 시작하여, 발표 당 시간은 **30분 이내**로 진행한다.
+* 발표자가 아닌 경우에 한하여 연차 사용 가능 - **시즌당 1회, 한주에 최대 3명**
+* README에 논문에 대한 정보와 관련 자료(article, blog) 및 구현 코드(github) 등을 정리하여 올리도록 한다.
+* 발표 자료는 **PDF 형식**으로 만들어서 올리도록 한다.
+* 모든 세미나 자료는 github을 통해 공유하여 추후 개인 포트폴리오로 활용할 수 있도록 한다.
+
+## Schedule
+* 최소한 발표 1주 전까지는 발표주제 update!
+
+| #  | Date         | Presenter | Subject |
+|:--:|:---------------:|:-----------:|:-------:|
+|01| Aug 9  | 조환희  | CATEGORICAL REPARAMETERIZATION WITH GUMBEL-SOFTMAX |
+|02| Aug 9  | 김수형  | Text Style Transfer via Learning Style Instance Supported Latent Space |
+|03| Aug 16  | 조건희  | StarSpace-Embed All The Thing |
+|04| Aug 16  | 백형렬  | QA-GNN Question Answering using Language Models and Knowledge Graphs |
+|05| Aug 23  | 임희주  | AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients |
+|06| Aug 30  | 김형섭  | Playing Atari with Deep Reinforcement Learning |
+
+## Git Manual & Markdown Editor
+* [Git & Github 메뉴얼](https://github.com/roomylee/deep-learning-seminar/blob/master/git%20%26%20github.pdf)을 참고하여 본인이 준비한 자료를 정상적으로 Repo에 올릴 수 있도록 한다.
+* 예습자료(README)를 작성할 때는 **Visual Studio Code**([download](https://code.visualstudio.com/Download)), **MarkRight**([download](https://github.com/dvcrn/markright/releases/download/0.1.11/MarkRight_Windows64.exe))등의 Editor를 사용하도록 한다.
