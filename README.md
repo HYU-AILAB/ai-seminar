@@ -43,7 +43,7 @@
 |07| Feb 16  | 정민지  | Seq2Seq |
 |08| Feb 16  | 조건희  | Transformer |
 |09| Feb 23  | 김민지  | BERT |
-|10| Feb 23  | 조환희  | GPT |
+|10| Feb 23  | 설지우  | GPT |
 |11| Mar 2  | 김수형  | Reinforcement Learning |
 |12| Mar 2  | 윤혜경  | Few Shot Learning  |
 
