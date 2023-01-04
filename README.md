@@ -25,4 +25,4 @@
 |16 | [Season 16 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_16) | Mar 5, 2021 - Apr 5, 2021 |
 |17 | [Season 17 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_17) | Jun 21, 2021 - Jul 5, 2021 |
 |18 | [Season 18 : Deep Learning 자율 주제 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_18) | Aug 9, 2021 - Aug 30, 2021 |
-|18 | [Season 18 : Deep Learning 기초 모델 복습 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_19) | Jan 19, 2022 - Mar 2, 2022 |
+|18 | [Season 19 : Deep Learning 기초 모델 복습 세미나](https://github.com/HYU-AILAB/ai-seminar/tree/master/season_19) | Jan 19, 2022 - Mar 2, 2022 |
